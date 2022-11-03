@@ -1,0 +1,5515 @@
+{
+    "alleles": {
+        "HLA-A*01:01": [
+            "5brz",
+            "4nqx",
+            "5bs0",
+            "6at9",
+            "4nqv",
+            "3bo8"
+        ],
+        "HLA-A*02:01": [
+            "3d25",
+            "3mrm",
+            "1t21",
+            "1qsf",
+            "6ss8",
+            "4jfp",
+            "6o53",
+            "3v5k",
+            "5c0f",
+            "5c0d",
+            "5c0j",
+            "3pwj",
+            "7eu2",
+            "1i7u",
+            "1s9w",
+            "5enw",
+            "3mrk",
+            "6ewc",
+            "1tvh",
+            "5f9j",
+            "2clr",
+            "6z9v",
+            "7kgt",
+            "6o51",
+            "3mrn",
+            "3hpj",
+            "3giv",
+            "2bnq",
+            "1s8d",
+            "6amt",
+            "6g3j",
+            "5hhq",
+            "3mr9",
+            "5eu5",
+            "4gks",
+            "1t1z",
+            "3mrf",
+            "3pwn",
+            "4l29",
+            "5meq",
+            "7lg2",
+            "6z9w",
+            "6opd",
+            "3mrp",
+            "1t1y",
+            "3qfd",
+            "2gt9",
+            "4no2",
+            "3mrr",
+            "4u6x",
+            "3pwl",
+            "6ewo",
+            "1b0g",
+            "3fqn",
+            "3gsv",
+            "3v5d",
+            "2git",
+            "4u6y",
+            "4gkn",
+            "6ptb",
+            "1tvb",
+            "7kgs",
+            "6vr1",
+            "6ss7",
+            "3v5h",
+            "3mgt",
+            "1qew",
+            "5nmh",
+            "3gsx",
+            "2gtz",
+            "5c0i",
+            "3utq",
+            "5e00",
+            "3i6g",
+            "5hhn",
+            "6ssa",
+            "1i7t",
+            "1s9y",
+            "7p3e",
+            "3mrh",
+            "3gsu",
+            "1jf1",
+            "3mro",
+            "1s9x",
+            "5c0e",
+            "2gtw",
+            "3mrl",
+            "4nny",
+            "2x4s",
+            "6pte",
+            "5nmk",
+            "2x4o",
+            "5eot",
+            "5meo",
+            "1qr1",
+            "5f7d",
+            "4no5",
+            "1i1y",
+            "5men",
+            "4i4w",
+            "3mri",
+            "4jfo",
+            "6ss9",
+            "3mgo",
+            "1t1x",
+            "1i4f",
+            "3mrd",
+            "5wsh",
+            "3rew",
+            "5fa4",
+            "3gsr",
+            "3mrc",
+            "3h7b",
+            "6o4z",
+            "5fdw",
+            "4jfq",
+            "3gsw",
+            "3kla",
+            "3gsq",
+            "6g3k",
+            "5hhp",
+            "5swq",
+            "3gso",
+            "5d9s",
+            "3i6k",
+            "6o4y",
+            "1jht",
+            "1qse",
+            "7lg3",
+            "5mep",
+            "1qrn",
+            "4k7f",
+            "5eu3",
+            "3mrj",
+            "3fqw",
+            "3ft2",
+            "1i1f",
+            "1i7r",
+            "3mrb",
+            "3myj",
+            "2guo",
+            "3mrg",
+            "3mre",
+            "5c0g",
+            "7kgo",
+            "6vr5",
+            "3fqt",
+            "6nca",
+            "5fa3",
+            "7n1b",
+            "5eu6",
+            "6trn",
+            "5ddh",
+            "2v2x",
+            "3to2",
+            "5n1y",
+            "7m8s",
+            "7mj6",
+            "7mj9",
+            "7mj7",
+            "7mj8",
+            "7rtd",
+            "7u21",
+            "7re8",
+            "1hhj",
+            "1duy",
+            "1eey",
+            "1hhg",
+            "1eez",
+            "1hhk",
+            "1hhh",
+            "1hhi",
+            "5mer",
+            "5n6b",
+            "7kgq",
+            "7sa2",
+            "7kgr"
+        ],
+        "HLA-A*02:03": [
+            "3ox8"
+        ],
+        "HLA-A*02:06": [
+            "6ujq",
+            "6ujo",
+            "3oxr"
+        ],
+        "HLA-A*02:07": [
+            "3oxs"
+        ],
+        "HLA-A*03:01": [
+            "3rl2",
+            "6o9b",
+            "7l1c",
+            "2xpg",
+            "7mle",
+            "6o9c",
+            "7l1b",
+            "3rl1",
+            "7uc5"
+        ],
+        "HLA-A*11:01": [
+            "2hn7",
+            "4mj6",
+            "4n8v",
+            "7m8t",
+            "7s8q",
+            "7s8r",
+            "7s8s",
+            "7ow3",
+            "7ow4",
+            "6joz",
+            "4mj5",
+            "1qvo",
+            "1q94",
+            "1x7q",
+            "7wkj",
+            "5wjl",
+            "5grd",
+            "5wjn"
+        ],
+        "HLA-A*24:02": [
+            "7jyw",
+            "3vxn",
+            "7jyu",
+            "4f7p",
+            "5wwi",
+            "7jyv",
+            "3i6l",
+            "6xqa",
+            "3wlb",
+            "4wu7",
+            "4wu5",
+            "5wwu",
+            "3vxp",
+            "3vxo",
+            "7jyx",
+            "7wt4",
+            "7mja",
+            "7ejl",
+            "7ejm",
+            "7ejn",
+            "2bck",
+            "3wl9",
+            "4f7m",
+            "7f4w",
+            "7nmd"
+        ],
+        "HLA-A*29:02": [
+            "7tlt"
+        ],
+        "HLA-A*30:01": [
+            "6j1w"
+        ],
+        "HLA-A*30:03": [
+            "6j2a",
+            "6j29",
+            "6j1v"
+        ],
+        "HLA-A*68:01": [
+            "6pbh",
+            "4hwz",
+            "1tmc"
+        ],
+        "HLA-A*68:02": [
+            "4i48",
+            "4hx1"
+        ],
+        "HLA-B*07:02": [
+            "6uj8",
+            "4u1h",
+            "5wmn",
+            "5eo0",
+            "4u1k",
+            "7lgt",
+            "6uj7",
+            "3vcl",
+            "5wmp",
+            "7lfz",
+            "7lg0",
+            "5wmo",
+            "6at5",
+            "5eo1"
+        ],
+        "HLA-B*07::02": [
+            "3vcl"
+        ],
+        "HLA-B*08:01": [
+            "6p2f",
+            "1agf",
+            "1agd",
+            "1age",
+            "3skm",
+            "6p23",
+            "4qru",
+            "1agc",
+            "4qrs",
+            "4qrt",
+            "1agb",
+            "7nui",
+            "3spv",
+            "1m05",
+            "4qrq",
+            "5wmr"
+        ],
+        "HLA-B*08:216": [
+            "3x14"
+        ],
+        "HLA-B*14:02": [
+            "3bvn",
+            "3bxn"
+        ],
+        "HLA-B*15:01": [
+            "3c9n",
+            "6vb1",
+            "6uzp",
+            "6uzq",
+            "6uzs",
+            "1xr9",
+            "1xr8",
+            "6vb3",
+            "6vb2",
+            "6uzo",
+            "5vz5",
+            "5txs"
+        ],
+        "HLA-B*15:02": [
+            "6uzo",
+            "6vb4",
+            "6vb2",
+            "6vb1",
+            "6vb0",
+            "6uzm",
+            "6uzn",
+            "6vb5",
+            "6vb6",
+            "6vb7"
+        ],
+        "HLA-B*18:01": [
+            "4xxc",
+            "4jqv",
+            "6mt3"
+        ],
+        "HLA-B*27:03": [
+            "6pyl",
+            "6pyv"
+        ],
+        "HLA-B*27:04": [
+            "5def"
+        ],
+        "HLA-B*27:05": [
+            "6y28",
+            "6y2a",
+            "6pyj",
+            "1jge",
+            "6y26",
+            "3lv3",
+            "1w0v",
+            "6vpz",
+            "7ciq",
+            "6vqe",
+            "4g8i",
+            "2bst",
+            "6vq2",
+            "1uxs",
+            "6vqd",
+            "2a83",
+            "2bsr",
+            "2bss",
+            "3bp4",
+            "5ib4"
+        ],
+        "HLA-B*27:06": [
+            "5deg"
+        ],
+        "HLA-B*27:09": [
+            "1w0w",
+            "6y2b",
+            "6y27",
+            "3czf",
+            "3d18",
+            "3bp7",
+            "1uxw",
+            "1of2",
+            "1k5n",
+            "1jgd",
+            "6y29"
+        ],
+        "HLA-B*35:01": [
+            "2fyy",
+            "4qrr",
+            "2axg",
+            "4pr5",
+            "3lko",
+            "3lkn",
+            "1xh3",
+            "3lkq",
+            "3lkp",
+            "4lnr",
+            "3lks",
+            "1a1n",
+            "1zhk",
+            "2cik",
+            "4prn",
+            "3lkr",
+            "7m8u",
+            "1zsd",
+            "1a9e",
+            "4pra",
+            "5xos"
+        ],
+        "HLA-B*35:08": [
+            "4prd",
+            "3vfr",
+            "3vft",
+            "2fz3",
+            "2axf",
+            "4pre",
+            "4prb",
+            "3vfw",
+            "3bw9",
+            "1zhl",
+            "3vfv",
+            "3vfu",
+            "2nw3",
+            "3bwa",
+            "3vfs"
+        ],
+        "HLA-B*37:01": [
+            "6mt5",
+            "6mt4",
+            "6mt6"
+        ],
+        "HLA-B*39:01": [
+            "4o2e",
+            "4o2f"
+        ],
+        "HLA-B*40:01": [
+            "5iek",
+            "6iex"
+        ],
+        "HLA-B*41:03": [
+            "3ln4"
+        ],
+        "HLA-B*41:04": [
+            "3ln5"
+        ],
+        "HLA-B*42:01": [
+            "4u1m",
+            "4u1j"
+        ],
+        "HLA-B*42:02": [
+            "4u1n"
+        ],
+        "HLA-B*44:02": [
+            "3dx6",
+            "3l3g",
+            "3kpm",
+            "3l3k",
+            "3l3i",
+            "3l3j",
+            "3l3d",
+            "3kpl",
+            "1m6o"
+        ],
+        "HLA-B*44:03": [
+            "4jqx",
+            "3kpo",
+            "1sys",
+            "3dx7",
+            "3kpn"
+        ],
+        "HLA-B*44:05": [
+            "6mtl",
+            "3dx8",
+            "3kpq",
+            "1syv",
+            "3kpp"
+        ],
+        "HLA-B*44::03": [
+            "1n2r"
+        ],
+        "HLA-B*51:01": [
+            "1e27",
+            "1e28"
+        ],
+        "HLA-B*52:01": [
+            "3w39"
+        ],
+        "HLA-B*53:01": [
+            "1a1m",
+            "1a1o",
+            "7r7v",
+            "7r7w"
+        ],
+        "HLA-B*57:01": [
+            "6d2b",
+            "6d2r",
+            "5t6y",
+            "5t6z",
+            "5vud",
+            "5t6w",
+            "6d29",
+            "5t6x",
+            "5t70",
+            "6d2t",
+            "2rfx",
+            "6bxp",
+            "2ypk",
+            "5vue",
+            "5vuf",
+            "6v2o",
+            "7r7x",
+            "7r7y",
+            "5u98",
+            "3vrj",
+            "3vri",
+            "3upr"
+        ],
+        "HLA-B*57:03": [
+            "2bvp",
+            "6v2q",
+            "5vvp",
+            "2bvo",
+            "5vwd",
+            "5vwf",
+            "6v2p"
+        ],
+        "HLA-B*57:06": [
+            "2hjl",
+            "2hjk"
+        ],
+        "HLA-B*58:01": [
+            "5vwj",
+            "5im7",
+            "5v5l",
+            "5vwh"
+        ],
+        "HLA-B*58:11": [
+            "5ind",
+            "5inc"
+        ],
+        "HLA-B*81:01": [
+            "4u1i",
+            "4u1l",
+            "4u1s"
+        ],
+        "HLA-C*01:02": [
+            "7duu"
+        ],
+        "HLA-C*03:04": [
+            "1efx"
+        ],
+        "HLA-C*04:01": [
+            "1qqd"
+        ],
+        "HLA-C*05:01": [
+            "6jtp",
+            "6jto",
+            "5vgd"
+        ],
+        "HLA-C*06:02": [
+            "5w6a",
+            "5xs3",
+            "5w69"
+        ],
+        "HLA-C*07:02": [
+            "5vge"
+        ],
+        "HLA-C*08:01": [
+            "4nt6"
+        ],
+        "HLA-C*08:02": [
+            "6uli",
+            "6ulk"
+        ],
+        "HLA-C*14:02": [
+            "7wj2"
+        ],
+        "HLA-E*01:01": [
+            "1mhe",
+            "3bze",
+            "3bzf",
+            "3am8"
+        ],
+        "HLA-E*01:03": [
+            "1kpr",
+            "6gl1",
+            "1ktl",
+            "6ghn",
+            "6gh1",
+            "7p49",
+            "6gh4",
+            "6ggm",
+            "7p4b"
+        ],
+        "HLA-F*01:01": [
+            "5iue"
+        ],
+        "HLA-G*01:01": [
+            "2d31"
+        ],
+        "HLA-G*01:04": [
+            "1ydp",
+            "3kyn",
+            "3kyo"
+        ],
+        "hla-a*24:50": [
+            "7wt5"
+        ]
+    },
+    "pdb_codes": {
+        "1a1m": {
+            "allele": "HLA-B*53:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1a1m",
+            "peptide": "TPYDINQML"
+        },
+        "1a1n": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "1a1n",
+            "peptide": "VPLRPMTY"
+        },
+        "1a1o": {
+            "allele": "HLA-B*53:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1a1o",
+            "peptide": "KPIVQYDNF"
+        },
+        "1a9e": {
+            "allele": "HLA-B*35:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1a9e",
+            "peptide": "LPPLDITPY"
+        },
+        "1agb": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "1agb",
+            "peptide": "GGRKKYKL"
+        },
+        "1agc": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "1agc",
+            "peptide": "GGKKKYQL"
+        },
+        "1agd": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "1agd",
+            "peptide": "GGKKKYKL"
+        },
+        "1age": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "1age",
+            "peptide": "GGKKKYRL"
+        },
+        "1agf": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "1agf",
+            "peptide": "GGKKRYKL"
+        },
+        "1b0g": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1b0g",
+            "peptide": "ALWGFFPVL"
+        },
+        "1duy": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1duy",
+            "peptide": "LFGYPVYV"
+        },
+        "1e27": {
+            "allele": "HLA-B*51:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1e27",
+            "peptide": "LPPVVAKEI"
+        },
+        "1e28": {
+            "allele": "HLA-B*51:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1e28",
+            "peptide": "TAFTIPSI"
+        },
+        "1eey": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1eey",
+            "peptide": "ILSALVGIV"
+        },
+        "1eez": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1eez",
+            "peptide": "ILSALVGIL"
+        },
+        "1efx": {
+            "allele": "HLA-C*03:04",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "1efx",
+            "peptide": "GAVDPLLAL"
+        },
+        "1hhg": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1hhg",
+            "peptide": "TLTSCNTSV"
+        },
+        "1hhh": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1hhh",
+            "peptide": "FLPSDFFPSV"
+        },
+        "1hhi": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1hhi",
+            "peptide": "GILGFVFTL"
+        },
+        "1hhj": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1hhj",
+            "peptide": "ILKEPVHGV"
+        },
+        "1hhk": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1hhk",
+            "peptide": "LLFGYPVYV"
+        },
+        "1i1f": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1i1f",
+            "peptide": "FLKEPVHGV"
+        },
+        "1i1y": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1i1y",
+            "peptide": "YLKEPVHGV"
+        },
+        "1i4f": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1i4f",
+            "peptide": "GVYDGREHTV"
+        },
+        "1i7r": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1i7r",
+            "peptide": "FAPGFFPYL"
+        },
+        "1i7t": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1i7t",
+            "peptide": "ALWGVFPVL"
+        },
+        "1i7u": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1i7u",
+            "peptide": "ALWGFVPVL"
+        },
+        "1jf1": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1jf1",
+            "peptide": "ELAGIGILTV"
+        },
+        "1jgd": {
+            "allele": "HLA-B*27:09",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1jgd",
+            "peptide": "RRLLRGHNQY"
+        },
+        "1jge": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "1jge",
+            "peptide": "GRFAAAIAK"
+        },
+        "1jht": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1jht",
+            "peptide": "ALGIGILTV"
+        },
+        "1k5n": {
+            "allele": "HLA-B*27:09",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1k5n",
+            "peptide": "GRFAAAIAK"
+        },
+        "1kpr": {
+            "allele": "HLA-E*01:03",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "1kpr",
+            "peptide": "VMAPRTVLL"
+        },
+        "1ktl": {
+            "allele": "HLA-E*01:03",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "1ktl",
+            "peptide": "VTAPRTLLL"
+        },
+        "1m05": {
+            "allele": "HLA-B*08:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1m05",
+            "peptide": "FLRGRAYGL"
+        },
+        "1m6o": {
+            "allele": "HLA-B*44:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1m6o",
+            "peptide": "EEFGRAFSF"
+        },
+        "1mhe": {
+            "allele": "HLA-E*01:01",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "1mhe",
+            "peptide": "VMAPRTVLL"
+        },
+        "1n2r": {
+            "allele": "HLA-B*44::03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1n2r",
+            "peptide": "EEFGRAFSF"
+        },
+        "1of2": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "1of2",
+            "peptide": "RRKWRRWHL"
+        },
+        "1q94": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1q94",
+            "peptide": "AIFQSSMTK"
+        },
+        "1qew": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1qew",
+            "peptide": "FLWGPRALV"
+        },
+        "1qqd": {
+            "allele": "HLA-C*04:01",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "1qqd",
+            "peptide": "QYDDAVYKL"
+        },
+        "1qr1": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1qr1",
+            "peptide": "IISAVVGIL"
+        },
+        "1qrn": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1qrn",
+            "peptide": "LLFGYAVYV"
+        },
+        "1qse": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1qse",
+            "peptide": "LLFGYPRYV"
+        },
+        "1qsf": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1qsf",
+            "peptide": "LLFGYPVAV"
+        },
+        "1qvo": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1qvo",
+            "peptide": "QVPLRPMTYK"
+        },
+        "1s8d": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1s8d",
+            "peptide": "SLANTVATL"
+        },
+        "1s9w": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1s9w",
+            "peptide": "SLLMWITQC"
+        },
+        "1s9x": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1s9x",
+            "peptide": "SLLMWITQA"
+        },
+        "1s9y": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1s9y",
+            "peptide": "SLLMWITQS"
+        },
+        "1sys": {
+            "allele": "HLA-B*44:03",
+            "locus": "HLA-B",
+            "pdb_code": "1sys",
+            "peptide": "EEPTVIKKY"
+        },
+        "1syv": {
+            "allele": "HLA-B*44:05",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1syv",
+            "peptide": "EEFGRAFSF"
+        },
+        "1t1x": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1t1x",
+            "peptide": "SLYLTVATL"
+        },
+        "1t1y": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1t1y",
+            "peptide": "SLYNVVATL"
+        },
+        "1t1z": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1t1z",
+            "peptide": "ALYNTAAAL"
+        },
+        "1t21": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1t21",
+            "peptide": "SLYNTVATL"
+        },
+        "1tmc": {
+            "allele": "HLA-A*68:01",
+            "locus": "HLA-A",
+            "pdb_code": "1tmc",
+            "peptide": "EVAPPEYHRK"
+        },
+        "1tvb": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1tvb",
+            "peptide": "ITDQVPFSV"
+        },
+        "1tvh": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "1tvh",
+            "peptide": "IMDQVPFSV"
+        },
+        "1uxs": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "1uxs",
+            "peptide": "RRRWRRLTV"
+        },
+        "1uxw": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "1uxw",
+            "peptide": "RRRWRRLTV"
+        },
+        "1w0v": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "1w0v",
+            "peptide": "RRLPIFSRL"
+        },
+        "1w0w": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "1w0w",
+            "peptide": "RRLPIFSRL"
+        },
+        "1x7q": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "1x7q",
+            "peptide": "KTFPPTEPK"
+        },
+        "1xh3": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "1xh3",
+            "peptide": "LPAVVGLSPGEQEY"
+        },
+        "1xr8": {
+            "allele": "HLA-B*15:01",
+            "locus": "HLA-B",
+            "pdb_code": "1xr8",
+            "peptide": "LEKARGSTY"
+        },
+        "1xr9": {
+            "allele": "HLA-B*15:01",
+            "locus": "HLA-B",
+            "pdb_code": "1xr9",
+            "peptide": "ILGPPGSVY"
+        },
+        "1ydp": {
+            "allele": "HLA-G*01:04",
+            "initial_set": true,
+            "locus": "HLA-G",
+            "pdb_code": "1ydp",
+            "peptide": "RIIPRHLQL"
+        },
+        "1zhk": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "1zhk",
+            "peptide": "LPEPLPQGQLTAY"
+        },
+        "1zhl": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "1zhl",
+            "peptide": "LPEPLPQGQLTAY"
+        },
+        "1zsd": {
+            "allele": "HLA-B*35:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "1zsd",
+            "peptide": "EPLPQGQLTAY"
+        },
+        "2a83": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "2a83",
+            "peptide": "RRRWHRWRL"
+        },
+        "2axf": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "2axf",
+            "peptide": "APQPAPENAY"
+        },
+        "2axg": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "2axg",
+            "peptide": "APQPAPENAY"
+        },
+        "2bck": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "2bck",
+            "peptide": "VYGFVRACL"
+        },
+        "2bnq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2bnq",
+            "peptide": "SLLMWITQV"
+        },
+        "2bsr": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "2bsr",
+            "peptide": "RRIYDLIEL"
+        },
+        "2bss": {
+            "allele": "HLA-B*27:05",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "2bss",
+            "peptide": "KRWIILGLNK"
+        },
+        "2bst": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "2bst",
+            "peptide": "SRYWAIRTR"
+        },
+        "2bvo": {
+            "allele": "HLA-B*57:03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "2bvo",
+            "peptide": "KAFSPEVIPMF"
+        },
+        "2bvp": {
+            "allele": "HLA-B*57:03",
+            "locus": "HLA-B",
+            "pdb_code": "2bvp",
+            "peptide": "ISPRTLDAW"
+        },
+        "2cik": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "2cik",
+            "peptide": "KPIVVLHGY"
+        },
+        "2clr": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2clr",
+            "peptide": "MLLSVPLLLG"
+        },
+        "2d31": {
+            "allele": "HLA-G*01:01",
+            "initial_set": true,
+            "locus": "HLA-G",
+            "pdb_code": "2d31",
+            "peptide": "RIIPRHLQL"
+        },
+        "2fyy": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "2fyy",
+            "peptide": "HPVGEADYFEY"
+        },
+        "2fz3": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "2fz3",
+            "peptide": "HPVGEADYFEY"
+        },
+        "2git": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2git",
+            "peptide": "LLFGKPVYV"
+        },
+        "2gt9": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2gt9",
+            "peptide": "EAAGIGILTV"
+        },
+        "2gtw": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2gtw",
+            "peptide": "LAGIGILTV"
+        },
+        "2gtz": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2gtz",
+            "peptide": "ALGIGILTV"
+        },
+        "2hjk": {
+            "allele": "HLA-B*57:06",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "2hjk",
+            "peptide": "KGFNPEVIPMF"
+        },
+        "2hjl": {
+            "allele": "HLA-B*57:06",
+            "locus": "HLA-B",
+            "pdb_code": "2hjl",
+            "peptide": "KAFNPEIIPMF"
+        },
+        "2hn7": {
+            "allele": "HLA-A*11:01",
+            "locus": "HLA-A",
+            "pdb_code": "2hn7",
+            "peptide": "AIMPARFYPK"
+        },
+        "2nw3": {
+            "allele": "HLA-B*35:08",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "2nw3",
+            "peptide": "EPLPQGQLTAY"
+        },
+        "2rfx": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "2rfx",
+            "peptide": "LSSPVTKSF"
+        },
+        "2v2x": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2v2x",
+            "peptide": "SLFNTVATL"
+        },
+        "2x4o": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2x4o",
+            "peptide": "KLTPLCVTL"
+        },
+        "2x4s": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "2x4s",
+            "peptide": "AMDSNTLEL"
+        },
+        "2xpg": {
+            "allele": "HLA-A*03:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "2xpg",
+            "peptide": "KLIETYFSK"
+        },
+        "2ypk": {
+            "allele": "HLA-B*57:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "2ypk",
+            "peptide": "KAFSPEVIPMF"
+        },
+        "3am8": {
+            "allele": "HLA-E*01:01",
+            "locus": "HLA-E",
+            "pdb_code": "3am8",
+            "peptide": "VMGPRTLIL"
+        },
+        "3bo8": {
+            "allele": "HLA-A*01:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "3bo8",
+            "peptide": "EADPTGHSY"
+        },
+        "3bp4": {
+            "allele": "HLA-B*27:05",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3bp4",
+            "peptide": "IRAAPPPLF"
+        },
+        "3bp7": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "3bp7",
+            "peptide": "IRAAPPPLF"
+        },
+        "3bvn": {
+            "allele": "HLA-B*14:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3bvn",
+            "peptide": "RRRWRRLTV"
+        },
+        "3bw9": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3bw9",
+            "peptide": "CPSQEPMSIYVY"
+        },
+        "3bwa": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3bwa",
+            "peptide": "FPTKDVAL"
+        },
+        "3bxn": {
+            "allele": "HLA-B*14:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3bxn",
+            "peptide": "IRAAPPPLF"
+        },
+        "3bze": {
+            "allele": "HLA-E*01:01",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "3bze",
+            "peptide": "VMAPRTLFL"
+        },
+        "3bzf": {
+            "allele": "HLA-E*01:01",
+            "locus": "HLA-E",
+            "pdb_code": "3bzf",
+            "peptide": "VMAPRALLL"
+        },
+        "3c9n": {
+            "allele": "HLA-B*15:01",
+            "locus": "HLA-B",
+            "pdb_code": "3c9n",
+            "peptide": "VQQESSFVM"
+        },
+        "3czf": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "3czf",
+            "peptide": "RRRWHRWRL"
+        },
+        "3d18": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "3d18",
+            "peptide": "RRRWRRLTL"
+        },
+        "3d25": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3d25",
+            "peptide": "VLHDDLLEA"
+        },
+        "3dx6": {
+            "allele": "HLA-B*44:02",
+            "locus": "HLA-B",
+            "pdb_code": "3dx6",
+            "peptide": "EENLLDFVRF"
+        },
+        "3dx7": {
+            "allele": "HLA-B*44:03",
+            "locus": "HLA-B",
+            "pdb_code": "3dx7",
+            "peptide": "EENLLDFVRF"
+        },
+        "3dx8": {
+            "allele": "HLA-B*44:05",
+            "locus": "HLA-B",
+            "pdb_code": "3dx8",
+            "peptide": "EENLLDFVRF"
+        },
+        "3fqn": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3fqn",
+            "peptide": "YLDSGIHSGA"
+        },
+        "3fqt": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3fqt",
+            "peptide": "GLLGSPVRA"
+        },
+        "3fqw": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3fqw",
+            "peptide": "RVASPTSGV"
+        },
+        "3ft2": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3ft2",
+            "peptide": "VLRDDLLEA"
+        },
+        "3giv": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3giv",
+            "peptide": "SLFNTVATLY"
+        },
+        "3gso": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3gso",
+            "peptide": "NLVPMVATV"
+        },
+        "3gsq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3gsq",
+            "peptide": "NLVPSVATV"
+        },
+        "3gsr": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3gsr",
+            "peptide": "NLVPVVATV"
+        },
+        "3gsu": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3gsu",
+            "peptide": "NLVPTVATV"
+        },
+        "3gsv": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3gsv",
+            "peptide": "NLVPQVATV"
+        },
+        "3gsw": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3gsw",
+            "peptide": "NLVPMVAAV"
+        },
+        "3gsx": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3gsx",
+            "peptide": "NLVPMVAVV"
+        },
+        "3h7b": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3h7b",
+            "peptide": "MLWGYLQYV"
+        },
+        "3hpj": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3hpj",
+            "peptide": "RMFPNAPYL"
+        },
+        "3i6g": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3i6g",
+            "peptide": "GLMWLSYFV"
+        },
+        "3i6k": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3i6k",
+            "peptide": "TLACFVLAAV"
+        },
+        "3i6l": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "3i6l",
+            "peptide": "QFKDNVILL"
+        },
+        "3kla": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3kla",
+            "peptide": "SLLMWITQL"
+        },
+        "3kpl": {
+            "allele": "HLA-B*44:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3kpl",
+            "peptide": "EEYLQAFTY"
+        },
+        "3kpm": {
+            "allele": "HLA-B*44:02",
+            "locus": "HLA-B",
+            "pdb_code": "3kpm",
+            "peptide": "EEYLKAWTF"
+        },
+        "3kpn": {
+            "allele": "HLA-B*44:03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3kpn",
+            "peptide": "EEYLQAFTY"
+        },
+        "3kpo": {
+            "allele": "HLA-B*44:03",
+            "locus": "HLA-B",
+            "pdb_code": "3kpo",
+            "peptide": "EEYLKAWTF"
+        },
+        "3kpp": {
+            "allele": "HLA-B*44:05",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3kpp",
+            "peptide": "EEYLQAFTY"
+        },
+        "3kpq": {
+            "allele": "HLA-B*44:05",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3kpq",
+            "peptide": "EEYLKAWTF"
+        },
+        "3kyn": {
+            "allele": "HLA-G*01:04",
+            "initial_set": true,
+            "locus": "HLA-G",
+            "pdb_code": "3kyn",
+            "peptide": "KGPPAALTL"
+        },
+        "3kyo": {
+            "allele": "HLA-G*01:04",
+            "initial_set": true,
+            "locus": "HLA-G",
+            "pdb_code": "3kyo",
+            "peptide": "KLPAQFYIL"
+        },
+        "3l3d": {
+            "allele": "HLA-B*44:02",
+            "locus": "HLA-B",
+            "pdb_code": "3l3d",
+            "peptide": "EEFGAAFSF"
+        },
+        "3l3g": {
+            "allele": "HLA-B*44:02",
+            "locus": "HLA-B",
+            "pdb_code": "3l3g",
+            "peptide": "EEFGAAFSF"
+        },
+        "3l3i": {
+            "allele": "HLA-B*44:02",
+            "locus": "HLA-B",
+            "pdb_code": "3l3i",
+            "peptide": "EEFGRAASF"
+        },
+        "3l3j": {
+            "allele": "HLA-B*44:02",
+            "locus": "HLA-B",
+            "pdb_code": "3l3j",
+            "peptide": "EEAGAAFSF"
+        },
+        "3l3k": {
+            "allele": "HLA-B*44:02",
+            "locus": "HLA-B",
+            "pdb_code": "3l3k",
+            "peptide": "EEFGAAASF"
+        },
+        "3lkn": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "3lkn",
+            "peptide": "LPFERATIM"
+        },
+        "3lko": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "3lko",
+            "peptide": "LPFDRTTIM"
+        },
+        "3lkp": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "3lkp",
+            "peptide": "LPFDKSTIM"
+        },
+        "3lkq": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "3lkq",
+            "peptide": "LPFDKTTIM"
+        },
+        "3lkr": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "3lkr",
+            "peptide": "LPFERATVM"
+        },
+        "3lks": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "3lks",
+            "peptide": "LPFEKSTVM"
+        },
+        "3ln4": {
+            "allele": "HLA-B*41:03",
+            "locus": "HLA-B",
+            "pdb_code": "3ln4",
+            "peptide": "AEMYGSVTEHPSPSPL"
+        },
+        "3ln5": {
+            "allele": "HLA-B*41:04",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3ln5",
+            "peptide": "HEEAVSVDRVL"
+        },
+        "3lv3": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "3lv3",
+            "peptide": "SRRWRRWNR"
+        },
+        "3mgo": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mgo",
+            "peptide": "RLYQNPTTYI"
+        },
+        "3mgt": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mgt",
+            "peptide": "KLYQNPTTYI"
+        },
+        "3mr9": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mr9",
+            "peptide": "NLVPAVATV"
+        },
+        "3mrb": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrb",
+            "peptide": "NLVPMVHTV"
+        },
+        "3mrc": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrc",
+            "peptide": "NLVPMCATV"
+        },
+        "3mrd": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrd",
+            "peptide": "NLVPMCATV"
+        },
+        "3mre": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mre",
+            "peptide": "GLCTLVAML"
+        },
+        "3mrf": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrf",
+            "peptide": "GLCPLVAML"
+        },
+        "3mrg": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrg",
+            "peptide": "CINGVCWTV"
+        },
+        "3mrh": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrh",
+            "peptide": "CISGVCWTV"
+        },
+        "3mri": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mri",
+            "peptide": "CINMWCWTV"
+        },
+        "3mrj": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrj",
+            "peptide": "CINGMCWTV"
+        },
+        "3mrk": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrk",
+            "peptide": "PLFQVPEPV"
+        },
+        "3mrl": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrl",
+            "peptide": "CINGVVWTV"
+        },
+        "3mrm": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrm",
+            "peptide": "KLVALGINAV"
+        },
+        "3mrn": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrn",
+            "peptide": "LLFNILGGWV"
+        },
+        "3mro": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mro",
+            "peptide": "ELAGWGILTV"
+        },
+        "3mrp": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrp",
+            "peptide": "ELAGLGINTV"
+        },
+        "3mrr": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3mrr",
+            "peptide": "LLAGIGTVPI"
+        },
+        "3myj": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3myj",
+            "peptide": "YMFPNAPYL"
+        },
+        "3ox8": {
+            "allele": "HLA-A*02:03",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "3ox8",
+            "peptide": "FLPSDFFPSV"
+        },
+        "3oxr": {
+            "allele": "HLA-A*02:06",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "3oxr",
+            "peptide": "FLPSDFFPSV"
+        },
+        "3oxs": {
+            "allele": "HLA-A*02:07",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "3oxs",
+            "peptide": "FLPSDFFPSV"
+        },
+        "3pwj": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3pwj",
+            "peptide": "LLYGFVNYV"
+        },
+        "3pwl": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3pwl",
+            "peptide": "LGYGFVNYI"
+        },
+        "3pwn": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3pwn",
+            "peptide": "LLYGFVNYI"
+        },
+        "3qfd": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3qfd",
+            "peptide": "AAGIGILTV"
+        },
+        "3rew": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3rew",
+            "peptide": "CLGGLLTMV"
+        },
+        "3rl1": {
+            "allele": "HLA-A*03:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "3rl1",
+            "peptide": "AIFQSSMTK"
+        },
+        "3rl2": {
+            "allele": "HLA-A*03:01",
+            "locus": "HLA-A",
+            "pdb_code": "3rl2",
+            "peptide": "QVPLRPMTYK"
+        },
+        "3skm": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "3skm",
+            "peptide": "FLRGRAYVL"
+        },
+        "3spv": {
+            "allele": "HLA-B*08:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3spv",
+            "peptide": "RAKFKQLL"
+        },
+        "3to2": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3to2",
+            "peptide": "LACFVLAAV"
+        },
+        "3upr": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "3upr",
+            "peptide": "HSITYLLPV"
+        },
+        "3utq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3utq",
+            "peptide": "ALWGPDPAAA"
+        },
+        "3v5d": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3v5d",
+            "peptide": "KVAELVHFL"
+        },
+        "3v5h": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3v5h",
+            "peptide": "KVAEIVHFL"
+        },
+        "3v5k": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "3v5k",
+            "peptide": "KVAELVWFL"
+        },
+        "3vcl": {
+            "allele": "HLA-B*07::02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3vcl",
+            "peptide": "RPHERNGFTVL"
+        },
+        "3vfr": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3vfr",
+            "peptide": "LPEALPQGQLTAY"
+        },
+        "3vfs": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3vfs",
+            "peptide": "LPEPAPQGQLTAY"
+        },
+        "3vft": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3vft",
+            "peptide": "LPEPLAQGQLTAY"
+        },
+        "3vfu": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3vfu",
+            "peptide": "LPEPLPAGQLTAY"
+        },
+        "3vfv": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3vfv",
+            "peptide": "LPEPLPQGALTAY"
+        },
+        "3vfw": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "3vfw",
+            "peptide": "LPEPLPQGQATAY"
+        },
+        "3vri": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "3vri",
+            "peptide": "RVAQLEQVYI"
+        },
+        "3vrj": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "3vrj",
+            "peptide": "LTTKLTNTNI"
+        },
+        "3vxn": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "3vxn",
+            "peptide": "RYPLTFGWCF"
+        },
+        "3vxo": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "3vxo",
+            "peptide": "RFPLTFGWCF"
+        },
+        "3vxp": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "3vxp",
+            "peptide": "RYPLTLGWCF"
+        },
+        "3w39": {
+            "allele": "HLA-B*52:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3w39",
+            "peptide": "TAFTIPSI"
+        },
+        "3wl9": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "3wl9",
+            "peptide": "NYTPGPGIRF"
+        },
+        "3wlb": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "3wlb",
+            "peptide": "NYTPGPGTRF"
+        },
+        "3x14": {
+            "allele": "HLA-B*08:216",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "3x14",
+            "peptide": "FLRGRAYGL"
+        },
+        "4f7m": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "4f7m",
+            "peptide": "LYASPQLEGF"
+        },
+        "4f7p": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "4f7p",
+            "peptide": "FYRYGFVANF"
+        },
+        "4g8i": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "4g8i",
+            "peptide": "KRWIIMGLNK"
+        },
+        "4gkn": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4gkn",
+            "peptide": "FATGIGIITV"
+        },
+        "4gks": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4gks",
+            "peptide": "FLTGIGIITV"
+        },
+        "4hwz": {
+            "allele": "HLA-A*68:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "4hwz",
+            "peptide": "AIFQSSMTK"
+        },
+        "4hx1": {
+            "allele": "HLA-A*68:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "4hx1",
+            "peptide": "SVYDFFVWL"
+        },
+        "4i48": {
+            "allele": "HLA-A*68:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "4i48",
+            "peptide": "TLTSCNTSV"
+        },
+        "4i4w": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4i4w",
+            "peptide": "ILAKFLHRL"
+        },
+        "4jfo": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4jfo",
+            "peptide": "ALAGIGILTV"
+        },
+        "4jfp": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4jfp",
+            "peptide": "ELAAIGILTV"
+        },
+        "4jfq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4jfq",
+            "peptide": "ELAGIGIATV"
+        },
+        "4jqv": {
+            "allele": "HLA-B*18:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4jqv",
+            "peptide": "SELEIKRY"
+        },
+        "4jqx": {
+            "allele": "HLA-B*44:03",
+            "locus": "HLA-B",
+            "pdb_code": "4jqx",
+            "peptide": "EECDSELEIKRY"
+        },
+        "4k7f": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4k7f",
+            "peptide": "VCWGELMNL"
+        },
+        "4l29": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4l29",
+            "peptide": "YLLMWITQV"
+        },
+        "4lnr": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "4lnr",
+            "peptide": "RPQVPLRPMTY"
+        },
+        "4mj5": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "4mj5",
+            "peptide": "TIAMELIRMIK"
+        },
+        "4mj6": {
+            "allele": "HLA-A*11:01",
+            "locus": "HLA-A",
+            "pdb_code": "4mj6",
+            "peptide": "TMVMELIRMIK"
+        },
+        "4n8v": {
+            "allele": "HLA-A*11:01",
+            "locus": "HLA-A",
+            "pdb_code": "4n8v",
+            "peptide": "MLIYSMWGK"
+        },
+        "4nny": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4nny",
+            "peptide": "RQASLSISV"
+        },
+        "4no2": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4no2",
+            "peptide": "RQASIELPSMAV"
+        },
+        "4no5": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4no5",
+            "peptide": "RQISQDVKL"
+        },
+        "4nqv": {
+            "allele": "HLA-A*01:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "4nqv",
+            "peptide": "CTELKLSDY"
+        },
+        "4nqx": {
+            "allele": "HLA-A*01:01",
+            "locus": "HLA-A",
+            "pdb_code": "4nqx",
+            "peptide": "ILDTAGKEEY"
+        },
+        "4nt6": {
+            "allele": "HLA-C*08:01",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "4nt6",
+            "peptide": "GILGFVFTL"
+        },
+        "4o2e": {
+            "allele": "HLA-B*39:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4o2e",
+            "peptide": "SHVAVENAL"
+        },
+        "4o2f": {
+            "allele": "HLA-B*39:01",
+            "locus": "HLA-B",
+            "pdb_code": "4o2f",
+            "peptide": "HVAVENAL"
+        },
+        "4pr5": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "4pr5",
+            "peptide": "HPVGDADYFEY"
+        },
+        "4pra": {
+            "allele": "HLA-B*35:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4pra",
+            "peptide": "HPVGQADYFEY"
+        },
+        "4prb": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "4prb",
+            "peptide": "HPVAEADYFEY"
+        },
+        "4prd": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "4prd",
+            "peptide": "HPVGDADYFEY"
+        },
+        "4pre": {
+            "allele": "HLA-B*35:08",
+            "locus": "HLA-B",
+            "pdb_code": "4pre",
+            "peptide": "HPVGQADYFEY"
+        },
+        "4prn": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "4prn",
+            "peptide": "HPVAEADYFEY"
+        },
+        "4qrq": {
+            "allele": "HLA-B*08:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4qrq",
+            "peptide": "HSKKKCDEL"
+        },
+        "4qrr": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "4qrr",
+            "peptide": "IPSINVHHY"
+        },
+        "4qrs": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "4qrs",
+            "peptide": "ELKRKMIYM"
+        },
+        "4qrt": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "4qrt",
+            "peptide": "ELNRKMIYM"
+        },
+        "4qru": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "4qru",
+            "peptide": "ELRRKMMYM"
+        },
+        "4u1h": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "4u1h",
+            "peptide": "TPQDLNTML"
+        },
+        "4u1i": {
+            "allele": "HLA-B*81:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4u1i",
+            "peptide": "TPQDLNTML"
+        },
+        "4u1j": {
+            "allele": "HLA-B*42:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4u1j",
+            "peptide": "TPQDLNTML"
+        },
+        "4u1k": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "4u1k",
+            "peptide": "RPQVPLRPM"
+        },
+        "4u1l": {
+            "allele": "HLA-B*81:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4u1l",
+            "peptide": "RPQVPLRPM"
+        },
+        "4u1m": {
+            "allele": "HLA-B*42:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4u1m",
+            "peptide": "RPQVPLRPM"
+        },
+        "4u1n": {
+            "allele": "HLA-B*42:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4u1n",
+            "peptide": "RPQVPLRPM"
+        },
+        "4u1s": {
+            "allele": "HLA-B*81:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "4u1s",
+            "peptide": "FPRPWLHGL"
+        },
+        "4u6x": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4u6x",
+            "peptide": "ALQDAGDSSRKEYFI"
+        },
+        "4u6y": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "4u6y",
+            "peptide": "FLNKDLEVDGHFVTM"
+        },
+        "4wu5": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "4wu5",
+            "peptide": "RYPLTFGW"
+        },
+        "4wu7": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "4wu7",
+            "peptide": "RFPLTFGW"
+        },
+        "4xxc": {
+            "allele": "HLA-B*18:01",
+            "locus": "HLA-B",
+            "pdb_code": "4xxc",
+            "peptide": "DELEIKAY"
+        },
+        "5brz": {
+            "allele": "HLA-A*01:01",
+            "locus": "HLA-A",
+            "pdb_code": "5brz",
+            "peptide": "EVDPIGHLY"
+        },
+        "5bs0": {
+            "allele": "HLA-A*01:01",
+            "locus": "HLA-A",
+            "pdb_code": "5bs0",
+            "peptide": "ESDPIVAQY"
+        },
+        "5c0d": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5c0d",
+            "peptide": "AQWGPDPAAA"
+        },
+        "5c0e": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5c0e",
+            "peptide": "YQFGPDFPIA"
+        },
+        "5c0f": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5c0f",
+            "peptide": "RQWGPDPAAV"
+        },
+        "5c0g": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5c0g",
+            "peptide": "YLGGPDFPTI"
+        },
+        "5c0i": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5c0i",
+            "peptide": "YLAPGPVTA"
+        },
+        "5c0j": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5c0j",
+            "peptide": "RQFGPDWIVA"
+        },
+        "5d9s": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5d9s",
+            "peptide": "FVLELEPEWTV"
+        },
+        "5ddh": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5ddh",
+            "peptide": "FVLELEPEWTVK"
+        },
+        "5def": {
+            "allele": "HLA-B*27:04",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5def",
+            "peptide": "RRKWRRWHL"
+        },
+        "5deg": {
+            "allele": "HLA-B*27:06",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5deg",
+            "peptide": "RRKWRRWHL"
+        },
+        "5e00": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5e00",
+            "peptide": "GVWIRTPPA"
+        },
+        "5enw": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5enw",
+            "peptide": "GLKEGIPAL"
+        },
+        "5eo0": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "5eo0",
+            "peptide": "RPMTFKGAL"
+        },
+        "5eo1": {
+            "allele": "HLA-B*07:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5eo1",
+            "peptide": "RPMTYKGAL"
+        },
+        "5eot": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5eot",
+            "peptide": "GLLPELPAVGG"
+        },
+        "5eu3": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5eu3",
+            "peptide": "YLEPGPVTA"
+        },
+        "5eu5": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5eu5",
+            "peptide": "YLEPAPVTA"
+        },
+        "5eu6": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5eu6",
+            "peptide": "YLEPGPVTV"
+        },
+        "5f7d": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5f7d",
+            "peptide": "GLKEGIPALD"
+        },
+        "5f9j": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5f9j",
+            "peptide": "YLSPIASPL"
+        },
+        "5fa3": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5fa3",
+            "peptide": "GLLPELPAV"
+        },
+        "5fa4": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5fa4",
+            "peptide": "YLSPIASPLLD"
+        },
+        "5fdw": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5fdw",
+            "peptide": "YLSPIASPLL"
+        },
+        "5grd": {
+            "allele": "HLA-A*11:01",
+            "locus": "HLA-A",
+            "pdb_code": "5grd",
+            "peptide": "SSCSSCPLSK"
+        },
+        "5hhn": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5hhn",
+            "peptide": "GILGLVFTL"
+        },
+        "5hhp": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5hhp",
+            "peptide": "GIWGFVFTL"
+        },
+        "5hhq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5hhq",
+            "peptide": "GIWGFVFTL"
+        },
+        "5ib4": {
+            "allele": "HLA-B*27:05",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5ib4",
+            "peptide": "RRKWRRWHL"
+        },
+        "5iek": {
+            "allele": "HLA-B*40:01",
+            "locus": "HLA-B",
+            "pdb_code": "5iek",
+            "peptide": "REFSKEPEL"
+        },
+        "5im7": {
+            "allele": "HLA-B*58:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5im7",
+            "peptide": "QASQEVKNW"
+        },
+        "5inc": {
+            "allele": "HLA-B*58:11",
+            "locus": "HLA-B",
+            "pdb_code": "5inc",
+            "peptide": "QATQEVKNW"
+        },
+        "5ind": {
+            "allele": "HLA-B*58:11",
+            "locus": "HLA-B",
+            "pdb_code": "5ind",
+            "peptide": "QASQDVKNW"
+        },
+        "5iue": {
+            "allele": "HLA-F*01:01",
+            "locus": "HLA-F",
+            "pdb_code": "5iue",
+            "peptide": "LILRWEQD"
+        },
+        "5men": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5men",
+            "peptide": "ILAKFLHWL"
+        },
+        "5meo": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5meo",
+            "peptide": "ILGKFLHRL"
+        },
+        "5mep": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5mep",
+            "peptide": "ILGKFLHWL"
+        },
+        "5meq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5meq",
+            "peptide": "ILAKFLHTL"
+        },
+        "5mer": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5mer",
+            "peptide": "ILAKFLHEL"
+        },
+        "5n1y": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5n1y",
+            "peptide": "MVWGPDPLYV"
+        },
+        "5n6b": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5n6b",
+            "peptide": "LLWNGPMAV"
+        },
+        "5nmh": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5nmh",
+            "peptide": "SLYNTIATL"
+        },
+        "5nmk": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5nmk",
+            "peptide": "SLFNTIAVL"
+        },
+        "5swq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5swq",
+            "peptide": "CVNGSCFTV"
+        },
+        "5t6w": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "5t6w",
+            "peptide": "SSTRGISQLW"
+        },
+        "5t6x": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "5t6x",
+            "peptide": "TSTTSVASSW"
+        },
+        "5t6y": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "5t6y",
+            "peptide": "TSTFEDVKILAF"
+        },
+        "5t6z": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "5t6z",
+            "peptide": "TSTLQEQIGW"
+        },
+        "5t70": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "5t70",
+            "peptide": "TSNLQEQIGW"
+        },
+        "5txs": {
+            "allele": "HLA-B*15:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5txs",
+            "peptide": "AQDIYRASY"
+        },
+        "5u98": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "5u98",
+            "peptide": "VTTDIQVKV"
+        },
+        "5v5l": {
+            "allele": "HLA-B*58:01",
+            "locus": "HLA-B",
+            "pdb_code": "5v5l",
+            "peptide": "TSTLQEQIGW"
+        },
+        "5vgd": {
+            "allele": "HLA-C*05:01",
+            "locus": "HLA-C",
+            "pdb_code": "5vgd",
+            "peptide": "SAEPVPLQL"
+        },
+        "5vge": {
+            "allele": "HLA-C*07:02",
+            "locus": "HLA-C",
+            "pdb_code": "5vge",
+            "peptide": "RYRPGTVAL"
+        },
+        "5vud": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "5vud",
+            "peptide": "LSSPVTKSW"
+        },
+        "5vue": {
+            "allele": "HLA-B*57:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5vue",
+            "peptide": "LTVQVARVW"
+        },
+        "5vuf": {
+            "allele": "HLA-B*57:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5vuf",
+            "peptide": "LTVQVARVY"
+        },
+        "5vvp": {
+            "allele": "HLA-B*57:03",
+            "locus": "HLA-B",
+            "pdb_code": "5vvp",
+            "peptide": "LSSPVTKSW"
+        },
+        "5vwd": {
+            "allele": "HLA-B*57:03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5vwd",
+            "peptide": "LTVQVARVW"
+        },
+        "5vwf": {
+            "allele": "HLA-B*57:03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5vwf",
+            "peptide": "LTVQVARVY"
+        },
+        "5vwh": {
+            "allele": "HLA-B*58:01",
+            "locus": "HLA-B",
+            "pdb_code": "5vwh",
+            "peptide": "LSSPVTKSW"
+        },
+        "5vwj": {
+            "allele": "HLA-B*58:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5vwj",
+            "peptide": "LTVQVARVW"
+        },
+        "5vz5": {
+            "allele": "HLA-B*15:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5vz5",
+            "peptide": "AQDIYRASYY"
+        },
+        "5w69": {
+            "allele": "HLA-C*06:02",
+            "locus": "HLA-C",
+            "pdb_code": "5w69",
+            "peptide": "ARFNDLRFV"
+        },
+        "5w6a": {
+            "allele": "HLA-C*06:02",
+            "locus": "HLA-C",
+            "pdb_code": "5w6a",
+            "peptide": "ARTELYRSL"
+        },
+        "5wjl": {
+            "allele": "HLA-A*11:01",
+            "locus": "HLA-A",
+            "pdb_code": "5wjl",
+            "peptide": "GTSGSPIVNR"
+        },
+        "5wjn": {
+            "allele": "HLA-A*11:01",
+            "locus": "HLA-A",
+            "pdb_code": "5wjn",
+            "peptide": "GTSGSPIINR"
+        },
+        "5wmn": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "5wmn",
+            "peptide": "SPIVPSFDM"
+        },
+        "5wmo": {
+            "allele": "HLA-B*07:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "5wmo",
+            "peptide": "RPPIFIRRL"
+        },
+        "5wmp": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "5wmp",
+            "peptide": "TPRVTGGGAM"
+        },
+        "5wmr": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "5wmr",
+            "peptide": "QIKVRVDMV"
+        },
+        "5wsh": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "5wsh",
+            "peptide": "GVWIRTPTA"
+        },
+        "5wwi": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "5wwi",
+            "peptide": "LYKKLKREMTF"
+        },
+        "5wwu": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "5wwu",
+            "peptide": "LYKKLKREITF"
+        },
+        "5xos": {
+            "allele": "HLA-B*35:01",
+            "locus": "HLA-B",
+            "pdb_code": "5xos",
+            "peptide": "IPLTEEAEL"
+        },
+        "5xs3": {
+            "allele": "HLA-C*06:02",
+            "locus": "HLA-C",
+            "pdb_code": "5xs3",
+            "peptide": "VRSRRCLRL"
+        },
+        "6amt": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6amt",
+            "peptide": "MMWDRGLGMM"
+        },
+        "6at5": {
+            "allele": "HLA-B*07:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6at5",
+            "peptide": "APRGPHGGAASGL"
+        },
+        "6at9": {
+            "allele": "HLA-A*01:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6at9",
+            "peptide": "AQDIYRASYY"
+        },
+        "6bxp": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "6bxp",
+            "peptide": "RVKEKYQHLW"
+        },
+        "6d29": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "6d29",
+            "peptide": "TSMSFVPRPW"
+        },
+        "6d2b": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "6d2b",
+            "peptide": "LSDSTARDVTW"
+        },
+        "6d2r": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "6d2r",
+            "peptide": "GSFDYSGVHLW"
+        },
+        "6d2t": {
+            "allele": "HLA-B*57:01",
+            "locus": "HLA-B",
+            "pdb_code": "6d2t",
+            "peptide": "LALLTGVRW"
+        },
+        "6ewc": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6ewc",
+            "peptide": "RLSSPLHFV"
+        },
+        "6ewo": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6ewo",
+            "peptide": "RTFSPTYGL"
+        },
+        "6g3j": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6g3j",
+            "peptide": "MTSAIGILPV"
+        },
+        "6g3k": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6g3k",
+            "peptide": "ITSGIGVLPV"
+        },
+        "6ggm": {
+            "allele": "HLA-E*01:03",
+            "locus": "HLA-E",
+            "pdb_code": "6ggm",
+            "peptide": "RFPAKAPLL"
+        },
+        "6gh1": {
+            "allele": "HLA-E*01:03",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "6gh1",
+            "peptide": "RLPAKAPLL"
+        },
+        "6gh4": {
+            "allele": "HLA-E*01:03",
+            "locus": "HLA-E",
+            "pdb_code": "6gh4",
+            "peptide": "RQPAKAPLL"
+        },
+        "6ghn": {
+            "allele": "HLA-E*01:03",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "6ghn",
+            "peptide": "RLPAKAPLF"
+        },
+        "6gl1": {
+            "allele": "HLA-E*01:03",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "6gl1",
+            "peptide": "RMYSPTSIL"
+        },
+        "6iex": {
+            "allele": "HLA-B*40:01",
+            "locus": "HLA-B",
+            "pdb_code": "6iex",
+            "peptide": "GETALALLLL"
+        },
+        "6j1v": {
+            "allele": "HLA-A*30:03",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6j1v",
+            "peptide": "AIFQSSMTK"
+        },
+        "6j1w": {
+            "allele": "HLA-A*30:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6j1w",
+            "peptide": "AIFQSSMTK"
+        },
+        "6j29": {
+            "allele": "HLA-A*30:03",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6j29",
+            "peptide": "QIMYNYPAM"
+        },
+        "6j2a": {
+            "allele": "HLA-A*30:03",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6j2a",
+            "peptide": "CTELKLSDY"
+        },
+        "6joz": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6joz",
+            "peptide": "ATIGTAMYK"
+        },
+        "6jto": {
+            "allele": "HLA-C*05:01",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "6jto",
+            "peptide": "GADGVGKSAL"
+        },
+        "6jtp": {
+            "allele": "HLA-C*05:01",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "6jtp",
+            "peptide": "GADGVGKSA"
+        },
+        "6mt3": {
+            "allele": "HLA-B*18:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6mt3",
+            "peptide": "FEDLRVLSF"
+        },
+        "6mt4": {
+            "allele": "HLA-B*37:01",
+            "locus": "HLA-B",
+            "pdb_code": "6mt4",
+            "peptide": "FEDLRVSSF"
+        },
+        "6mt5": {
+            "allele": "HLA-B*37:01",
+            "locus": "HLA-B",
+            "pdb_code": "6mt5",
+            "peptide": "FEDLRLLSF"
+        },
+        "6mt6": {
+            "allele": "HLA-B*37:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6mt6",
+            "peptide": "FEDLRVLSF"
+        },
+        "6mtl": {
+            "allele": "HLA-B*44:05",
+            "locus": "HLA-B",
+            "pdb_code": "6mtl",
+            "peptide": "FEDLRVLSF"
+        },
+        "6nca": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6nca",
+            "peptide": "YVLDHLIVV"
+        },
+        "6o4y": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6o4y",
+            "peptide": "KLVVGAVGV"
+        },
+        "6o4z": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6o4z",
+            "peptide": "KLVVVAVGV"
+        },
+        "6o51": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6o51",
+            "peptide": "YLVVVGAVGV"
+        },
+        "6o53": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6o53",
+            "peptide": "KLVVVGAVGV"
+        },
+        "6o9b": {
+            "allele": "HLA-A*03:01",
+            "locus": "HLA-A",
+            "pdb_code": "6o9b",
+            "peptide": "TTAPSLSGK"
+        },
+        "6o9c": {
+            "allele": "HLA-A*03:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6o9c",
+            "peptide": "TTAPFLSGK"
+        },
+        "6opd": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6opd",
+            "peptide": "ILNAMIVKI"
+        },
+        "6p23": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "6p23",
+            "peptide": "RARAAAKKKYCL"
+        },
+        "6p2f": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "6p2f",
+            "peptide": "RARARAAAKKGYCL"
+        },
+        "6pbh": {
+            "allele": "HLA-A*68:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "6pbh",
+            "peptide": "DATYQRTRALVR"
+        },
+        "6ptb": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6ptb",
+            "peptide": "ILNAMIAKI"
+        },
+        "6pte": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6pte",
+            "peptide": "ILNAMITKI"
+        },
+        "6pyj": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6pyj",
+            "peptide": "LRNQSVFNF"
+        },
+        "6pyl": {
+            "allele": "HLA-B*27:03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6pyl",
+            "peptide": "KRWIILGLNK"
+        },
+        "6pyv": {
+            "allele": "HLA-B*27:03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6pyv",
+            "peptide": "LRNQSVFNF"
+        },
+        "6ss7": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6ss7",
+            "peptide": "LLWAGPMAV"
+        },
+        "6ss8": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6ss8",
+            "peptide": "LLWNGPIAV"
+        },
+        "6ss9": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6ss9",
+            "peptide": "LLWNGPMHV"
+        },
+        "6ssa": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6ssa",
+            "peptide": "LLWNGPMQV"
+        },
+        "6trn": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6trn",
+            "peptide": "AVYDGREHTV"
+        },
+        "6uj7": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "6uj7",
+            "peptide": "SPNGTIQNIL"
+        },
+        "6uj8": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "6uj8",
+            "peptide": "SPNGTIRNIL"
+        },
+        "6ujo": {
+            "allele": "HLA-A*02:06",
+            "locus": "HLA-A",
+            "pdb_code": "6ujo",
+            "peptide": "KQWLVWLFL"
+        },
+        "6ujq": {
+            "allele": "HLA-A*02:06",
+            "locus": "HLA-A",
+            "pdb_code": "6ujq",
+            "peptide": "KQWLVWLLL"
+        },
+        "6uli": {
+            "allele": "HLA-C*08:02",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "6uli",
+            "peptide": "GADGVGKSA"
+        },
+        "6ulk": {
+            "allele": "HLA-C*08:02",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "6ulk",
+            "peptide": "GADGVGKSAL"
+        },
+        "6uzm": {
+            "allele": "HLA-B*15:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6uzm",
+            "peptide": "HLASSGHSL"
+        },
+        "6uzn": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6uzn",
+            "peptide": "TVRASGHSY"
+        },
+        "6uzo": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6uzo",
+            "peptide": "HLASSGHSY"
+        },
+        "6uzp": {
+            "allele": "HLA-B*15:01",
+            "locus": "HLA-B",
+            "pdb_code": "6uzp",
+            "peptide": "HLASSGHSL"
+        },
+        "6uzq": {
+            "allele": "HLA-B*15:01",
+            "locus": "HLA-B",
+            "pdb_code": "6uzq",
+            "peptide": "TVRASGHSY"
+        },
+        "6uzs": {
+            "allele": "HLA-B*15:01",
+            "locus": "HLA-B",
+            "pdb_code": "6uzs",
+            "peptide": "HLASSGHSY"
+        },
+        "6v2o": {
+            "allele": "HLA-B*57:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6v2o",
+            "peptide": "ASLNLPAVSW"
+        },
+        "6v2p": {
+            "allele": "HLA-B*57:03",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6v2p",
+            "peptide": "ASLNLPAVSW"
+        },
+        "6v2q": {
+            "allele": "HLA-B*57:03",
+            "locus": "HLA-B",
+            "pdb_code": "6v2q",
+            "peptide": "LSSPVTKSW"
+        },
+        "6vb0": {
+            "allele": "HLA-B*15:02",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6vb0",
+            "peptide": "ELRAREESY"
+        },
+        "6vb1": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6vb1",
+            "peptide": "ELRAREEAY"
+        },
+        "6vb2": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6vb2",
+            "peptide": "ELRARQECY"
+        },
+        "6vb3": {
+            "allele": "HLA-B*15:01",
+            "locus": "HLA-B",
+            "pdb_code": "6vb3",
+            "peptide": "TVAASGHSY"
+        },
+        "6vb4": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6vb4",
+            "peptide": "TVAASGHSY"
+        },
+        "6vb5": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6vb5",
+            "peptide": "TVRASGHSY"
+        },
+        "6vb6": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6vb6",
+            "peptide": "TVRASGHSY"
+        },
+        "6vb7": {
+            "allele": "HLA-B*15:02",
+            "locus": "HLA-B",
+            "pdb_code": "6vb7",
+            "peptide": "TVRASGHSY"
+        },
+        "6vpz": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6vpz",
+            "peptide": "KRWIILGLNKI"
+        },
+        "6vq2": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6vq2",
+            "peptide": "KRWIILGLNKIVRM"
+        },
+        "6vqd": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6vqd",
+            "peptide": "KRWIILGL"
+        },
+        "6vqe": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6vqe",
+            "peptide": "KRWIILGLNKIVR"
+        },
+        "6vr1": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6vr1",
+            "peptide": "HMTEVVRRC"
+        },
+        "6vr5": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6vr5",
+            "peptide": "HMTEVVRHC"
+        },
+        "6xqa": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "6xqa",
+            "peptide": "TYQWVLKNL"
+        },
+        "6y26": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6y26",
+            "peptide": "GRLNAPIKV"
+        },
+        "6y27": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "6y27",
+            "peptide": "GRLNAPIKV"
+        },
+        "6y28": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6y28",
+            "peptide": "GRLNEPIKV"
+        },
+        "6y29": {
+            "allele": "HLA-B*27:09",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "6y29",
+            "peptide": "GRLNEPIKV"
+        },
+        "6y2a": {
+            "allele": "HLA-B*27:05",
+            "locus": "HLA-B",
+            "pdb_code": "6y2a",
+            "peptide": "GRLNQPIKV"
+        },
+        "6y2b": {
+            "allele": "HLA-B*27:09",
+            "locus": "HLA-B",
+            "pdb_code": "6y2b",
+            "peptide": "GRLNQPIKV"
+        },
+        "6z9v": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6z9v",
+            "peptide": "IIGWMWIPV"
+        },
+        "6z9w": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "6z9w",
+            "peptide": "LLGWVFAQV"
+        },
+        "7ciq": {
+            "allele": "HLA-B*27:05",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "7ciq",
+            "peptide": "RRFSRSPIRR"
+        },
+        "7duu": {
+            "allele": "HLA-C*01:02",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "7duu",
+            "peptide": "LNPSVAATL"
+        },
+        "7ejl": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7ejl",
+            "peptide": "QYIKWPWYI"
+        },
+        "7ejm": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7ejm",
+            "peptide": "TYIKWPWWV"
+        },
+        "7ejn": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7ejn",
+            "peptide": "MYVKWPWYV"
+        },
+        "7eu2": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7eu2",
+            "peptide": "KIADYNYKL"
+        },
+        "7f4w": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "7f4w",
+            "peptide": "NYNYLYRLF"
+        },
+        "7jyu": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "7jyu",
+            "peptide": "IYFSPIRVTF"
+        },
+        "7jyv": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "7jyv",
+            "peptide": "YFSPIRVTF"
+        },
+        "7jyw": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "7jyw",
+            "peptide": "TYQWIIRNW"
+        },
+        "7jyx": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "7jyx",
+            "peptide": "TYQWIIRNWET"
+        },
+        "7kgo": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7kgo",
+            "peptide": "ILLNKHIDA"
+        },
+        "7kgq": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7kgq",
+            "peptide": "LLLDRLNQL"
+        },
+        "7kgr": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7kgr",
+            "peptide": "LQLPQGTTL"
+        },
+        "7kgs": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7kgs",
+            "peptide": "ALNTPKDHI"
+        },
+        "7kgt": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7kgt",
+            "peptide": "GMSRIGMEV"
+        },
+        "7l1b": {
+            "allele": "HLA-A*03:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7l1b",
+            "peptide": "AHHGGWTTK"
+        },
+        "7l1c": {
+            "allele": "HLA-A*03:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7l1c",
+            "peptide": "ALHGGWTTK"
+        },
+        "7lfz": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "7lfz",
+            "peptide": "IPRRNVATL"
+        },
+        "7lg0": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "7lg0",
+            "peptide": "SPRWYFYYL"
+        },
+        "7lg2": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7lg2",
+            "peptide": "ALWEIQQVV"
+        },
+        "7lg3": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7lg3",
+            "peptide": "KLWAQCVQL"
+        },
+        "7lgt": {
+            "allele": "HLA-B*07:02",
+            "locus": "HLA-B",
+            "pdb_code": "7lgt",
+            "peptide": "SPKLHFYYL"
+        },
+        "7m8s": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7m8s",
+            "peptide": "KLNDLCFTNV"
+        },
+        "7m8t": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7m8t",
+            "peptide": "NSASFSTFK"
+        },
+        "7m8u": {
+            "allele": "HLA-B*35:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "7m8u",
+            "peptide": "IPFAMQMAY"
+        },
+        "7mj6": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7mj6",
+            "peptide": "LLLPLLPPL"
+        },
+        "7mj7": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7mj7",
+            "peptide": "LLLPLLPPLSP"
+        },
+        "7mj8": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7mj8",
+            "peptide": "LLLPLLPPLSPS"
+        },
+        "7mj9": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7mj9",
+            "peptide": "LLLPRLPPL"
+        },
+        "7mja": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7mja",
+            "peptide": "QYNPIRTTF"
+        },
+        "7mle": {
+            "allele": "HLA-A*03:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7mle",
+            "peptide": "VVRPSVASK"
+        },
+        "7n1b": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7n1b",
+            "peptide": "RLQSLQTYV"
+        },
+        "7nmd": {
+            "allele": "HLA-A*24:02",
+            "locus": "HLA-A",
+            "pdb_code": "7nmd",
+            "peptide": "QLPRLFPLL"
+        },
+        "7nui": {
+            "allele": "HLA-B*08:01",
+            "locus": "HLA-B",
+            "pdb_code": "7nui",
+            "peptide": "ELRSRYWAI"
+        },
+        "7ow3": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7ow3",
+            "peptide": "VVVGAGGVGK"
+        },
+        "7ow4": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7ow4",
+            "peptide": "VVVGADGVGK"
+        },
+        "7p3e": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7p3e",
+            "peptide": "YLQLRTFLL"
+        },
+        "7p49": {
+            "allele": "HLA-E*01:03",
+            "initial_set": true,
+            "locus": "HLA-E",
+            "pdb_code": "7p49",
+            "peptide": "RMAATAQVL"
+        },
+        "7p4b": {
+            "allele": "HLA-E*01:03",
+            "locus": "HLA-E",
+            "pdb_code": "7p4b",
+            "peptide": "IMYNYPAML"
+        },
+        "7r7v": {
+            "allele": "HLA-B*53:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "7r7v",
+            "peptide": "QASQEVKNW"
+        },
+        "7r7w": {
+            "allele": "HLA-B*53:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "7r7w",
+            "peptide": "QATQEVKNW"
+        },
+        "7r7x": {
+            "allele": "HLA-B*57:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "7r7x",
+            "peptide": "QASQEVKNW"
+        },
+        "7r7y": {
+            "allele": "HLA-B*57:01",
+            "initial_set": true,
+            "locus": "HLA-B",
+            "pdb_code": "7r7y",
+            "peptide": "QATQEVKNW"
+        },
+        "7re8": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7re8",
+            "peptide": "FMNKFIYEI"
+        },
+        "7rtd": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7rtd",
+            "peptide": "YLQPRTFLL"
+        },
+        "7s8q": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7s8q",
+            "peptide": "KTNGNAFIGK"
+        },
+        "7s8r": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7s8r",
+            "peptide": "SALEWIKNK"
+        },
+        "7s8s": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7s8s",
+            "peptide": "RVLVNGTFLK"
+        },
+        "7sa2": {
+            "allele": "HLA-A*02:01",
+            "locus": "HLA-A",
+            "pdb_code": "7sa2",
+            "peptide": "VVFLHVTYV"
+        },
+        "7tlt": {
+            "allele": "HLA-A*29:02",
+            "locus": "HLA-A",
+            "pdb_code": "7tlt",
+            "peptide": "YFPLQSYGF"
+        },
+        "7u21": {
+            "allele": "HLA-A*02:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7u21",
+            "peptide": "AVGSYVYSV"
+        },
+        "7uc5": {
+            "allele": "HLA-A*03:01",
+            "locus": "HLA-A",
+            "pdb_code": "7uc5",
+            "peptide": "ILRGSVAHK"
+        },
+        "7wj2": {
+            "allele": "HLA-C*14:02",
+            "initial_set": true,
+            "locus": "HLA-C",
+            "pdb_code": "7wj2",
+            "peptide": "LYNTVATL"
+        },
+        "7wkj": {
+            "allele": "HLA-A*11:01",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7wkj",
+            "peptide": "KTFPPTEPK"
+        },
+        "7wt4": {
+            "allele": "HLA-A*24:02",
+            "initial_set": true,
+            "locus": "HLA-A",
+            "pdb_code": "7wt4",
+            "peptide": "RYGFVANF"
+        },
+        "7wt5": {
+            "allele": "hla-a*24:50",
+            "initial_set": true,
+            "locus": "hla-a",
+            "pdb_code": "7wt5",
+            "peptide": "RYGFVANF"
+        }
+    },
+    "peptide_lengths": {
+        "10": [
+            "3mrm",
+            "5fdw",
+            "4jfq",
+            "4g8i",
+            "3mrp",
+            "1jf1",
+            "4jfp",
+            "2gt9",
+            "6o53",
+            "5c0e",
+            "3mrr",
+            "6g3k",
+            "5c0f",
+            "3mro",
+            "5c0d",
+            "5c0j",
+            "3rl2",
+            "7jyu",
+            "3i6k",
+            "3fqn",
+            "4f7p",
+            "3dx6",
+            "6uj8",
+            "2axg",
+            "4nqx",
+            "2axf",
+            "5t6w",
+            "5t70",
+            "3vxp",
+            "3vxo",
+            "4gkn",
+            "3dx7",
+            "6iex",
+            "5f7d",
+            "2clr",
+            "6uj7",
+            "6o51",
+            "4jfo",
+            "3mrn",
+            "3giv",
+            "3mgt",
+            "5c0g",
+            "6amt",
+            "6g3j",
+            "3vxn",
+            "5t6z",
+            "3mgo",
+            "4gks",
+            "7ciq",
+            "3wlb",
+            "6d29",
+            "5c0i",
+            "6trn",
+            "1i4f",
+            "5t6x",
+            "3dx8",
+            "3utq",
+            "5wmp",
+            "5n1y",
+            "2hn7",
+            "6bxp",
+            "6v2o",
+            "6v2p",
+            "6jto",
+            "6ulk",
+            "7m8s",
+            "7s8q",
+            "7s8s",
+            "7ow3",
+            "7ow4",
+            "6at9",
+            "3ox8",
+            "3wl9",
+            "2bss",
+            "1jgd",
+            "6pyl",
+            "3oxr",
+            "4f7m",
+            "3oxs",
+            "1qvo",
+            "5vz5",
+            "1hhh",
+            "5wjl",
+            "5grd",
+            "5wjn",
+            "3vrj",
+            "5v5l",
+            "3vri",
+            "1tmc"
+        ],
+        "11": [
+            "2fyy",
+            "5fa4",
+            "5wwi",
+            "2fz3",
+            "5wwu",
+            "6d2b",
+            "6d2r",
+            "5d9s",
+            "4mj6",
+            "5eot",
+            "4lnr",
+            "3vcl",
+            "2hjl",
+            "4prd",
+            "4pr5",
+            "6vpz",
+            "4pre",
+            "4prb",
+            "4prn",
+            "7jyx",
+            "2ypk",
+            "2bvo",
+            "2hjk",
+            "7mj7",
+            "2nw3",
+            "3ln5",
+            "4mj5",
+            "1zsd",
+            "4pra"
+        ],
+        "12": [
+            "4jqx",
+            "5t6y",
+            "3bw9",
+            "5ddh",
+            "6p23",
+            "4no2",
+            "7mj8",
+            "6pbh"
+        ],
+        "13": [
+            "3vfr",
+            "3vft",
+            "6vqe",
+            "3vfw",
+            "1zhk",
+            "1zhl",
+            "3vfv",
+            "3vfu",
+            "6at5",
+            "3vfs"
+        ],
+        "14": [
+            "1xh3",
+            "6vq2",
+            "6p2f"
+        ],
+        "15": [
+            "4u6y",
+            "4u6x"
+        ],
+        "16": [
+            "3ln4"
+        ],
+        "8": [
+            "1agf",
+            "1agd",
+            "1agb",
+            "1age",
+            "4wu7",
+            "1a1n",
+            "4wu5",
+            "1agc",
+            "6vqd",
+            "4xxc",
+            "7wt4",
+            "7wj2",
+            "7wt5",
+            "3spv",
+            "4jqv",
+            "1duy",
+            "1e28",
+            "3w39",
+            "4o2f",
+            "3bwa",
+            "5iue"
+        ],
+        "9": [
+            "3d25",
+            "3lkn",
+            "4u1i",
+            "1t21",
+            "3czf",
+            "1qsf",
+            "6ss8",
+            "3d18",
+            "6d2t",
+            "6ujq",
+            "4u1h",
+            "3v5k",
+            "7eu2",
+            "3pwj",
+            "1i7u",
+            "7jyv",
+            "1s9w",
+            "5enw",
+            "3mrk",
+            "7lgt",
+            "3bp7",
+            "1uxs",
+            "6ewc",
+            "4qrr",
+            "5vud",
+            "3kpm",
+            "1tvh",
+            "5f9j",
+            "6z9v",
+            "7kgt",
+            "6vb3",
+            "2bst",
+            "3hpj",
+            "2bnq",
+            "1s8d",
+            "5hhq",
+            "1w0w",
+            "3l3g",
+            "3mr9",
+            "4u1k",
+            "5eu5",
+            "3skm",
+            "6uzo",
+            "1t1z",
+            "3mrf",
+            "3l3i",
+            "3pwn",
+            "5meq",
+            "4l29",
+            "7lg2",
+            "6z9w",
+            "3lks",
+            "6opd",
+            "6v2q",
+            "1t1y",
+            "3qfd",
+            "7nui",
+            "3pwl",
+            "6ewo",
+            "1b0g",
+            "3gsv",
+            "3lkp",
+            "3v5d",
+            "6mt4",
+            "1xr8",
+            "2git",
+            "2rfx",
+            "5vvp",
+            "6ptb",
+            "1tvb",
+            "1jge",
+            "6o9b",
+            "7kgs",
+            "6vr1",
+            "6ss7",
+            "3v5h",
+            "6y27",
+            "1qew",
+            "5nmh",
+            "3gsx",
+            "3lv3",
+            "2gtz",
+            "1xr9",
+            "5c0i",
+            "5e00",
+            "3i6g",
+            "5hhn",
+            "6ssa",
+            "1i7t",
+            "5bs0",
+            "1s9y",
+            "7p3e",
+            "3mrh",
+            "6uzs",
+            "3gsu",
+            "4qrt",
+            "1s9x",
+            "2gtw",
+            "6y26",
+            "3mrl",
+            "4nny",
+            "6uzq",
+            "2x4s",
+            "4qru",
+            "6pte",
+            "5nmk",
+            "2x4o",
+            "1w0v",
+            "3l3d",
+            "3lkr",
+            "7lg0",
+            "6pyj",
+            "5meo",
+            "6uzp",
+            "3lkq",
+            "1qr1",
+            "4no5",
+            "1i1y",
+            "5men",
+            "4i4w",
+            "6vb2",
+            "3mri",
+            "2cik",
+            "1uxw",
+            "1of2",
+            "6ujo",
+            "5wmn",
+            "6ss9",
+            "6xqa",
+            "1t1x",
+            "3mrd",
+            "4qrs",
+            "7lfz",
+            "2bsr",
+            "7jyw",
+            "3rew",
+            "5wsh",
+            "3gsr",
+            "3mrc",
+            "3h7b",
+            "6o4z",
+            "5eo0",
+            "3gsw",
+            "3kla",
+            "3gsq",
+            "6vb4",
+            "5hhp",
+            "3l3j",
+            "2a83",
+            "3c9n",
+            "5swq",
+            "4n8v",
+            "3gso",
+            "6o4y",
+            "1qse",
+            "1jht",
+            "3i6l",
+            "7lg3",
+            "5mep",
+            "1qrn",
+            "4k7f",
+            "5eu3",
+            "3mrj",
+            "5brz",
+            "3fqw",
+            "3ft2",
+            "1i1f",
+            "1i7r",
+            "3mrb",
+            "6mtl",
+            "3myj",
+            "5iek",
+            "3l3k",
+            "3mrg",
+            "2bvp",
+            "3mre",
+            "7kgo",
+            "6vr5",
+            "6y28",
+            "6y2a",
+            "1sys",
+            "3fqt",
+            "6nca",
+            "3lko",
+            "6vb1",
+            "6mt5",
+            "7n1b",
+            "6y2b",
+            "5fa3",
+            "5eu6",
+            "2v2x",
+            "3to2",
+            "3kpo",
+            "5vue",
+            "5vuf",
+            "5vwd",
+            "5vwf",
+            "5vwj",
+            "5im7",
+            "4u1l",
+            "4u1s",
+            "7duu",
+            "1efx",
+            "1qqd",
+            "6jtp",
+            "4nt6",
+            "6uli",
+            "1mhe",
+            "3bze",
+            "1kpr",
+            "6gl1",
+            "1ktl",
+            "6ghn",
+            "6gh1",
+            "7p49",
+            "2d31",
+            "1ydp",
+            "3kyn",
+            "3kyo",
+            "7mj6",
+            "7mj9",
+            "7rtd",
+            "7u21",
+            "7re8",
+            "7l1c",
+            "7m8t",
+            "7s8r",
+            "7mja",
+            "7ejl",
+            "7ejm",
+            "7ejn",
+            "7m8u",
+            "7r7x",
+            "7r7y",
+            "6j1w",
+            "4u1m",
+            "4i48",
+            "3kpq",
+            "6joz",
+            "1e27",
+            "4o2e",
+            "1hhj",
+            "2bck",
+            "5wmo",
+            "1k5n",
+            "4nqv",
+            "3bo8",
+            "4u1j",
+            "6j2a",
+            "6j29",
+            "4hx1",
+            "1eey",
+            "3x14",
+            "1hhg",
+            "3bp4",
+            "1eez",
+            "4u1n",
+            "6vb0",
+            "6uzm",
+            "4hwz",
+            "6pyv",
+            "3bvn",
+            "6mt6",
+            "1hhk",
+            "2xpg",
+            "3kpl",
+            "5eo1",
+            "1m05",
+            "1syv",
+            "1a9e",
+            "5deg",
+            "6mt3",
+            "3bxn",
+            "3kpn",
+            "7mle",
+            "6o9c",
+            "1m6o",
+            "5def",
+            "1q94",
+            "1a1m",
+            "5ib4",
+            "4qrq",
+            "6y29",
+            "7l1b",
+            "6j1v",
+            "5txs",
+            "1x7q",
+            "1hhi",
+            "1a1o",
+            "3rl1",
+            "3kpp",
+            "7r7v",
+            "7r7w",
+            "1n2r",
+            "7wkj",
+            "5u98",
+            "7tlt",
+            "5vge",
+            "7f4w",
+            "5w6a",
+            "5ind",
+            "6uzn",
+            "5mer",
+            "7uc5",
+            "6vb5",
+            "5xos",
+            "5vgd",
+            "6gh4",
+            "5xs3",
+            "5wmr",
+            "5n6b",
+            "6ggm",
+            "7kgq",
+            "7sa2",
+            "5inc",
+            "6vb6",
+            "3bzf",
+            "7nmd",
+            "5vwh",
+            "7kgr",
+            "7p4b",
+            "6vb7",
+            "5w69",
+            "3upr",
+            "3am8"
+        ]
+    },
+    "peptides": {
+        "AAGIGILTV": [
+            "3qfd"
+        ],
+        "AEMYGSVTEHPSPSPL": [
+            "3ln4"
+        ],
+        "AHHGGWTTK": [
+            "7l1b"
+        ],
+        "AIFQSSMTK": [
+            "6j1w",
+            "4hwz",
+            "1q94",
+            "6j1v",
+            "3rl1"
+        ],
+        "AIMPARFYPK": [
+            "2hn7"
+        ],
+        "ALAGIGILTV": [
+            "4jfo"
+        ],
+        "ALGIGILTV": [
+            "1jht",
+            "2gtz"
+        ],
+        "ALHGGWTTK": [
+            "7l1c"
+        ],
+        "ALNTPKDHI": [
+            "7kgs"
+        ],
+        "ALQDAGDSSRKEYFI": [
+            "4u6x"
+        ],
+        "ALWEIQQVV": [
+            "7lg2"
+        ],
+        "ALWGFFPVL": [
+            "1b0g"
+        ],
+        "ALWGFVPVL": [
+            "1i7u"
+        ],
+        "ALWGPDPAAA": [
+            "3utq"
+        ],
+        "ALWGVFPVL": [
+            "1i7t"
+        ],
+        "ALYNTAAAL": [
+            "1t1z"
+        ],
+        "AMDSNTLEL": [
+            "2x4s"
+        ],
+        "APQPAPENAY": [
+            "2axg",
+            "2axf"
+        ],
+        "APRGPHGGAASGL": [
+            "6at5"
+        ],
+        "AQDIYRASY": [
+            "5txs"
+        ],
+        "AQDIYRASYY": [
+            "6at9",
+            "5vz5"
+        ],
+        "AQWGPDPAAA": [
+            "5c0d"
+        ],
+        "ARFNDLRFV": [
+            "5w69"
+        ],
+        "ARTELYRSL": [
+            "5w6a"
+        ],
+        "ASLNLPAVSW": [
+            "6v2o",
+            "6v2p"
+        ],
+        "ATIGTAMYK": [
+            "6joz"
+        ],
+        "AVGSYVYSV": [
+            "7u21"
+        ],
+        "AVYDGREHTV": [
+            "6trn"
+        ],
+        "CINGMCWTV": [
+            "3mrj"
+        ],
+        "CINGVCWTV": [
+            "3mrg"
+        ],
+        "CINGVVWTV": [
+            "3mrl"
+        ],
+        "CINMWCWTV": [
+            "3mri"
+        ],
+        "CISGVCWTV": [
+            "3mrh"
+        ],
+        "CLGGLLTMV": [
+            "3rew"
+        ],
+        "CPSQEPMSIYVY": [
+            "3bw9"
+        ],
+        "CTELKLSDY": [
+            "4nqv",
+            "6j2a"
+        ],
+        "CVNGSCFTV": [
+            "5swq"
+        ],
+        "DATYQRTRALVR": [
+            "6pbh"
+        ],
+        "DELEIKAY": [
+            "4xxc"
+        ],
+        "EAAGIGILTV": [
+            "2gt9"
+        ],
+        "EADPTGHSY": [
+            "3bo8"
+        ],
+        "EEAGAAFSF": [
+            "3l3j"
+        ],
+        "EECDSELEIKRY": [
+            "4jqx"
+        ],
+        "EEFGAAASF": [
+            "3l3k"
+        ],
+        "EEFGAAFSF": [
+            "3l3d",
+            "3l3g"
+        ],
+        "EEFGRAASF": [
+            "3l3i"
+        ],
+        "EEFGRAFSF": [
+            "1syv",
+            "1m6o",
+            "1n2r"
+        ],
+        "EENLLDFVRF": [
+            "3dx6",
+            "3dx7",
+            "3dx8"
+        ],
+        "EEPTVIKKY": [
+            "1sys"
+        ],
+        "EEYLKAWTF": [
+            "3kpo",
+            "3kpm",
+            "3kpq"
+        ],
+        "EEYLQAFTY": [
+            "3kpl",
+            "3kpn",
+            "3kpp"
+        ],
+        "ELAAIGILTV": [
+            "4jfp"
+        ],
+        "ELAGIGIATV": [
+            "4jfq"
+        ],
+        "ELAGIGILTV": [
+            "1jf1"
+        ],
+        "ELAGLGINTV": [
+            "3mrp"
+        ],
+        "ELAGWGILTV": [
+            "3mro"
+        ],
+        "ELKRKMIYM": [
+            "4qrs"
+        ],
+        "ELNRKMIYM": [
+            "4qrt"
+        ],
+        "ELRAREEAY": [
+            "6vb1"
+        ],
+        "ELRAREESY": [
+            "6vb0"
+        ],
+        "ELRARQECY": [
+            "6vb2"
+        ],
+        "ELRRKMMYM": [
+            "4qru"
+        ],
+        "ELRSRYWAI": [
+            "7nui"
+        ],
+        "EPLPQGQLTAY": [
+            "2nw3",
+            "1zsd"
+        ],
+        "ESDPIVAQY": [
+            "5bs0"
+        ],
+        "EVAPPEYHRK": [
+            "1tmc"
+        ],
+        "EVDPIGHLY": [
+            "5brz"
+        ],
+        "FAPGFFPYL": [
+            "1i7r"
+        ],
+        "FATGIGIITV": [
+            "4gkn"
+        ],
+        "FEDLRLLSF": [
+            "6mt5"
+        ],
+        "FEDLRVLSF": [
+            "6mtl",
+            "6mt6",
+            "6mt3"
+        ],
+        "FEDLRVSSF": [
+            "6mt4"
+        ],
+        "FLKEPVHGV": [
+            "1i1f"
+        ],
+        "FLNKDLEVDGHFVTM": [
+            "4u6y"
+        ],
+        "FLPSDFFPSV": [
+            "3ox8",
+            "3oxr",
+            "3oxs",
+            "1hhh"
+        ],
+        "FLRGRAYGL": [
+            "3x14",
+            "1m05"
+        ],
+        "FLRGRAYVL": [
+            "3skm"
+        ],
+        "FLTGIGIITV": [
+            "4gks"
+        ],
+        "FLWGPRALV": [
+            "1qew"
+        ],
+        "FMNKFIYEI": [
+            "7re8"
+        ],
+        "FPRPWLHGL": [
+            "4u1s"
+        ],
+        "FPTKDVAL": [
+            "3bwa"
+        ],
+        "FVLELEPEWTV": [
+            "5d9s"
+        ],
+        "FVLELEPEWTVK": [
+            "5ddh"
+        ],
+        "FYRYGFVANF": [
+            "4f7p"
+        ],
+        "GADGVGKSA": [
+            "6jtp",
+            "6uli"
+        ],
+        "GADGVGKSAL": [
+            "6jto",
+            "6ulk"
+        ],
+        "GAVDPLLAL": [
+            "1efx"
+        ],
+        "GETALALLLL": [
+            "6iex"
+        ],
+        "GGKKKYKL": [
+            "1agd"
+        ],
+        "GGKKKYQL": [
+            "1agc"
+        ],
+        "GGKKKYRL": [
+            "1age"
+        ],
+        "GGKKRYKL": [
+            "1agf"
+        ],
+        "GGRKKYKL": [
+            "1agb"
+        ],
+        "GILEFVFTL": [
+            "5hhp"
+        ],
+        "GILGFVFTL": [
+            "4nt6",
+            "1hhi"
+        ],
+        "GILGLVFTL": [
+            "5hhn"
+        ],
+        "GIWGFVFTL": [
+            "5hhq",
+            "5hhp"
+        ],
+        "GLCPLVAML": [
+            "3mrf"
+        ],
+        "GLCTLVAML": [
+            "3mre"
+        ],
+        "GLKEGIPAL": [
+            "5enw"
+        ],
+        "GLKEGIPALD": [
+            "5f7d"
+        ],
+        "GLLGSPVRA": [
+            "3fqt"
+        ],
+        "GLLPELPAV": [
+            "5fa3"
+        ],
+        "GLLPELPAVGG": [
+            "5eot"
+        ],
+        "GLMWLSYFV": [
+            "3i6g"
+        ],
+        "GMSRIGMEV": [
+            "7kgt"
+        ],
+        "GRFAAAIAK": [
+            "1jge",
+            "1k5n"
+        ],
+        "GRLNAPIKV": [
+            "6y26",
+            "6y27"
+        ],
+        "GRLNEPIKV": [
+            "6y28",
+            "6y29"
+        ],
+        "GRLNQPIKV": [
+            "6y2a",
+            "6y2b"
+        ],
+        "GSFDYSGVHLW": [
+            "6d2r"
+        ],
+        "GTSGSPIINR": [
+            "5wjn"
+        ],
+        "GTSGSPIVNR": [
+            "5wjl"
+        ],
+        "GVWIRTPPA": [
+            "5e00"
+        ],
+        "GVWIRTPTA": [
+            "5wsh"
+        ],
+        "GVYDGREHTV": [
+            "1i4f"
+        ],
+        "HEEAVSVDRVL": [
+            "3ln5"
+        ],
+        "HLASSGHSL": [
+            "6uzp",
+            "6uzm"
+        ],
+        "HLASSGHSY": [
+            "6uzo",
+            "6uzs"
+        ],
+        "HMTEVVRHC": [
+            "6vr5"
+        ],
+        "HMTEVVRRC": [
+            "6vr1"
+        ],
+        "HPVAEADYFEY": [
+            "4prb",
+            "4prn"
+        ],
+        "HPVGDADYFEY": [
+            "4prd",
+            "4pr5"
+        ],
+        "HPVGEADYFEY": [
+            "2fyy",
+            "2fz3"
+        ],
+        "HPVGQADYFEY": [
+            "4pre",
+            "4pra"
+        ],
+        "HSITYLLPV": [
+            "3upr"
+        ],
+        "HSKKKCDEL": [
+            "4qrq"
+        ],
+        "HVAVENAL": [
+            "4o2f"
+        ],
+        "IIGWMWIPV": [
+            "6z9v"
+        ],
+        "IISAVVGIL": [
+            "1qr1"
+        ],
+        "ILAKFLHEL": [
+            "5mer"
+        ],
+        "ILAKFLHRL": [
+            "4i4w"
+        ],
+        "ILAKFLHTL": [
+            "5meq"
+        ],
+        "ILAKFLHWL": [
+            "5men"
+        ],
+        "ILDTAGKEEY": [
+            "4nqx"
+        ],
+        "ILGKFLHRL": [
+            "5meo"
+        ],
+        "ILGKFLHWL": [
+            "5mep"
+        ],
+        "ILGPPGSVY": [
+            "1xr9"
+        ],
+        "ILKEPVHGV": [
+            "1hhj"
+        ],
+        "ILLNKHIDA": [
+            "7kgo"
+        ],
+        "ILNAMIAKI": [
+            "6ptb"
+        ],
+        "ILNAMITKI": [
+            "6pte"
+        ],
+        "ILNAMIVKI": [
+            "6opd"
+        ],
+        "ILRGSVAHK": [
+            "7uc5"
+        ],
+        "ILSALVGIL": [
+            "1eez"
+        ],
+        "ILSALVGIV": [
+            "1eey"
+        ],
+        "IMDQVPFSV": [
+            "1tvh"
+        ],
+        "IMYNYPAML": [
+            "7p4b"
+        ],
+        "IPFAMQMAY": [
+            "7m8u"
+        ],
+        "IPLTEEAEL": [
+            "5xos"
+        ],
+        "IPRRNVATL": [
+            "7lfz"
+        ],
+        "IPSINVHHY": [
+            "4qrr"
+        ],
+        "IRAAPPPLF": [
+            "3bp7",
+            "3bp4",
+            "3bxn"
+        ],
+        "ISPRTLDAW": [
+            "2bvp"
+        ],
+        "ITDQVPFSV": [
+            "1tvb"
+        ],
+        "ITSGIGVLPV": [
+            "6g3k"
+        ],
+        "IYFSPIRVTF": [
+            "7jyu"
+        ],
+        "KAFNPEIIPMF": [
+            "2hjl"
+        ],
+        "KAFSPEVIPMF": [
+            "2ypk",
+            "2bvo"
+        ],
+        "KGFNPEVIPMF": [
+            "2hjk"
+        ],
+        "KGPPAALTL": [
+            "3kyn"
+        ],
+        "KIADYNYKL": [
+            "7eu2"
+        ],
+        "KLIETYFSK": [
+            "2xpg"
+        ],
+        "KLNDLCFTNV": [
+            "7m8s"
+        ],
+        "KLPAQFYIL": [
+            "3kyo"
+        ],
+        "KLTPLCVTL": [
+            "2x4o"
+        ],
+        "KLVALGINAV": [
+            "3mrm"
+        ],
+        "KLVVGAVGV": [
+            "6o4y"
+        ],
+        "KLVVVAVGV": [
+            "6o4z"
+        ],
+        "KLVVVGAVGV": [
+            "6o53"
+        ],
+        "KLWAQCVQL": [
+            "7lg3"
+        ],
+        "KLYQNPTTYI": [
+            "3mgt"
+        ],
+        "KPIVQYDNF": [
+            "1a1o"
+        ],
+        "KPIVVLHGY": [
+            "2cik"
+        ],
+        "KQWLVWLFL": [
+            "6ujo"
+        ],
+        "KQWLVWLLL": [
+            "6ujq"
+        ],
+        "KRWIILGL": [
+            "6vqd"
+        ],
+        "KRWIILGLNK": [
+            "2bss",
+            "6pyl"
+        ],
+        "KRWIILGLNKI": [
+            "6vpz"
+        ],
+        "KRWIILGLNKIVR": [
+            "6vqe"
+        ],
+        "KRWIILGLNKIVRM": [
+            "6vq2"
+        ],
+        "KRWIIMGLNK": [
+            "4g8i"
+        ],
+        "KTFPPTEPK": [
+            "1x7q",
+            "7wkj"
+        ],
+        "KTNGNAFIGK": [
+            "7s8q"
+        ],
+        "KVAEIVHFL": [
+            "3v5h"
+        ],
+        "KVAELVHFL": [
+            "3v5d"
+        ],
+        "KVAELVWFL": [
+            "3v5k"
+        ],
+        "LACFVLAAV": [
+            "3to2"
+        ],
+        "LAGIGILTV": [
+            "2gtw"
+        ],
+        "LALLTGVRW": [
+            "6d2t"
+        ],
+        "LEKARGSTY": [
+            "1xr8"
+        ],
+        "LFGYPVYV": [
+            "1duy"
+        ],
+        "LGYGFVNYI": [
+            "3pwl"
+        ],
+        "LILRWEQD": [
+            "5iue"
+        ],
+        "LLAGIGTVPI": [
+            "3mrr"
+        ],
+        "LLFGKPVYV": [
+            "2git"
+        ],
+        "LLFGYAVYV": [
+            "1qrn"
+        ],
+        "LLFGYPRYV": [
+            "1qse"
+        ],
+        "LLFGYPVAV": [
+            "1qsf"
+        ],
+        "LLFGYPVYV": [
+            "1hhk"
+        ],
+        "LLFNILGGWV": [
+            "3mrn"
+        ],
+        "LLGWVFAQV": [
+            "6z9w"
+        ],
+        "LLLDRLNQL": [
+            "7kgq"
+        ],
+        "LLLPLLPPL": [
+            "7mj6"
+        ],
+        "LLLPLLPPLSP": [
+            "7mj7"
+        ],
+        "LLLPLLPPLSPS": [
+            "7mj8"
+        ],
+        "LLLPRLPPL": [
+            "7mj9"
+        ],
+        "LLWAGPMAV": [
+            "6ss7"
+        ],
+        "LLWNGPIAV": [
+            "6ss8"
+        ],
+        "LLWNGPMAV": [
+            "5n6b"
+        ],
+        "LLWNGPMHV": [
+            "6ss9"
+        ],
+        "LLWNGPMQV": [
+            "6ssa"
+        ],
+        "LLYGFVNYI": [
+            "3pwn"
+        ],
+        "LLYGFVNYV": [
+            "3pwj"
+        ],
+        "LNPSVAATL": [
+            "7duu"
+        ],
+        "LPAVVGLSPGEQEY": [
+            "1xh3"
+        ],
+        "LPEALPQGQLTAY": [
+            "3vfr"
+        ],
+        "LPEPAPQGQLTAY": [
+            "3vfs"
+        ],
+        "LPEPLAQGQLTAY": [
+            "3vft"
+        ],
+        "LPEPLPAGQLTAY": [
+            "3vfu"
+        ],
+        "LPEPLPQGALTAY": [
+            "3vfv"
+        ],
+        "LPEPLPQGQATAY": [
+            "3vfw"
+        ],
+        "LPEPLPQGQLTAY": [
+            "1zhk",
+            "1zhl"
+        ],
+        "LPFDKSTIM": [
+            "3lkp"
+        ],
+        "LPFDKTTIM": [
+            "3lkq"
+        ],
+        "LPFDRTTIM": [
+            "3lko"
+        ],
+        "LPFEKSTVM": [
+            "3lks"
+        ],
+        "LPFERATIM": [
+            "3lkn"
+        ],
+        "LPFERATVM": [
+            "3lkr"
+        ],
+        "LPPLDITPY": [
+            "1a9e"
+        ],
+        "LPPVVAKEI": [
+            "1e27"
+        ],
+        "LQLPQGTTL": [
+            "7kgr"
+        ],
+        "LRNQSVFNF": [
+            "6pyj",
+            "6pyv"
+        ],
+        "LSDSTARDVTW": [
+            "6d2b"
+        ],
+        "LSSPVTKSF": [
+            "2rfx"
+        ],
+        "LSSPVTKSW": [
+            "5vud",
+            "6v2q",
+            "5vvp",
+            "5vwh"
+        ],
+        "LTTKLTNTNI": [
+            "3vrj"
+        ],
+        "LTVQVARVW": [
+            "5vue",
+            "5vwd",
+            "5vwj"
+        ],
+        "LTVQVARVY": [
+            "5vuf",
+            "5vwf"
+        ],
+        "LYASPQLEGF": [
+            "4f7m"
+        ],
+        "LYKKLKREITF": [
+            "5wwu"
+        ],
+        "LYKKLKREMTF": [
+            "5wwi"
+        ],
+        "LYNTVATL": [
+            "7wj2"
+        ],
+        "MLIYSMWGK": [
+            "4n8v"
+        ],
+        "MLLSVPLLLG": [
+            "2clr"
+        ],
+        "MLWGYLQYV": [
+            "3h7b"
+        ],
+        "MMWDRGLGMM": [
+            "6amt"
+        ],
+        "MTSAIGILPV": [
+            "6g3j"
+        ],
+        "MVWGPDPLYV": [
+            "5n1y"
+        ],
+        "MYVKWPWYV": [
+            "7ejn"
+        ],
+        "NLVPAVATV": [
+            "3mr9"
+        ],
+        "NLVPMCATV": [
+            "3mrc",
+            "3mrd"
+        ],
+        "NLVPMGATV": [
+            "3mrd"
+        ],
+        "NLVPMVAAV": [
+            "3gsw"
+        ],
+        "NLVPMVATV": [
+            "3gso"
+        ],
+        "NLVPMVAVV": [
+            "3gsx"
+        ],
+        "NLVPMVHTV": [
+            "3mrb"
+        ],
+        "NLVPQVATV": [
+            "3gsv"
+        ],
+        "NLVPSVATV": [
+            "3gsq"
+        ],
+        "NLVPTVATV": [
+            "3gsu"
+        ],
+        "NLVPVVATV": [
+            "3gsr"
+        ],
+        "NSASFSTFK": [
+            "7m8t"
+        ],
+        "NYNYLYRLF": [
+            "7f4w"
+        ],
+        "NYTPGPGIRF": [
+            "3wl9"
+        ],
+        "NYTPGPGTRF": [
+            "3wlb"
+        ],
+        "PLFQVPEPV": [
+            "3mrk"
+        ],
+        "QASQDVKNW": [
+            "5ind"
+        ],
+        "QASQEVKNW": [
+            "5im7",
+            "7r7x",
+            "7r7v"
+        ],
+        "QATQEVKNW": [
+            "7r7y",
+            "7r7w",
+            "5inc"
+        ],
+        "QFKDNVILL": [
+            "3i6l"
+        ],
+        "QIKVRVDMV": [
+            "5wmr"
+        ],
+        "QIMYNYPAM": [
+            "6j29"
+        ],
+        "QLPRLFPLL": [
+            "7nmd"
+        ],
+        "QVPLRPMTYK": [
+            "3rl2",
+            "1qvo"
+        ],
+        "QYDDAVYKL": [
+            "1qqd"
+        ],
+        "QYIKWPWYI": [
+            "7ejl"
+        ],
+        "QYNPIRTTF": [
+            "7mja"
+        ],
+        "RAKFKQLL": [
+            "3spv"
+        ],
+        "RARAAAKKKYCL": [
+            "6p23"
+        ],
+        "RARARAAAKKGYCL": [
+            "6p2f"
+        ],
+        "REFSKEPEL": [
+            "5iek"
+        ],
+        "RFPAKAPLL": [
+            "6ggm"
+        ],
+        "RFPLTFGW": [
+            "4wu7"
+        ],
+        "RFPLTFGWCF": [
+            "3vxo"
+        ],
+        "RIIPRHLQL": [
+            "2d31",
+            "1ydp"
+        ],
+        "RLNQLESKM": [
+            "7kgt"
+        ],
+        "RLPAKAPLF": [
+            "6ghn"
+        ],
+        "RLPAKAPLL": [
+            "6gh1"
+        ],
+        "RLQSLQTYV": [
+            "7n1b"
+        ],
+        "RLSSPLHFV": [
+            "6ewc"
+        ],
+        "RLYQNPTTYI": [
+            "3mgo"
+        ],
+        "RMAATAQVL": [
+            "7p49"
+        ],
+        "RMFPNAPYL": [
+            "3hpj"
+        ],
+        "RMYSPTSIL": [
+            "6gl1"
+        ],
+        "RPHERNGFTVL": [
+            "3vcl"
+        ],
+        "RPMTFKGAL": [
+            "5eo0"
+        ],
+        "RPMTYKGAL": [
+            "5eo1"
+        ],
+        "RPPIFIRRL": [
+            "5wmo"
+        ],
+        "RPQVPLRPM": [
+            "4u1k",
+            "4u1l",
+            "4u1m",
+            "4u1n"
+        ],
+        "RPQVPLRPMTY": [
+            "4lnr"
+        ],
+        "RQASIELPSMAV": [
+            "4no2"
+        ],
+        "RQASLSISV": [
+            "4nny"
+        ],
+        "RQFGPDFPTI": [
+            "5c0i"
+        ],
+        "RQFGPDWIVA": [
+            "5c0j"
+        ],
+        "RQISQDVKL": [
+            "4no5"
+        ],
+        "RQPAKAPLL": [
+            "6gh4"
+        ],
+        "RQWGPDPAAV": [
+            "5c0f"
+        ],
+        "RRFSRSPIRR": [
+            "7ciq"
+        ],
+        "RRIYDLIEL": [
+            "2bsr"
+        ],
+        "RRKWRRWHL": [
+            "1of2",
+            "5deg",
+            "5def",
+            "5ib4"
+        ],
+        "RRLLRGHNQY": [
+            "1jgd"
+        ],
+        "RRLPIFSRL": [
+            "1w0v",
+            "1w0w"
+        ],
+        "RRRWHRWRL": [
+            "2a83",
+            "3czf"
+        ],
+        "RRRWRRLTL": [
+            "3d18"
+        ],
+        "RRRWRRLTV": [
+            "1uxw",
+            "1uxs",
+            "3bvn"
+        ],
+        "RTFSPTYGL": [
+            "6ewo"
+        ],
+        "RVAQLEQVYI": [
+            "3vri"
+        ],
+        "RVASPTSGV": [
+            "3fqw"
+        ],
+        "RVKEKYQHLW": [
+            "6bxp"
+        ],
+        "RVLVNGTFLK": [
+            "7s8s"
+        ],
+        "RYGFVANF": [
+            "7wt4",
+            "7wt5"
+        ],
+        "RYPLTFGW": [
+            "4wu5"
+        ],
+        "RYPLTFGWCF": [
+            "3vxn"
+        ],
+        "RYPLTLGWCF": [
+            "3vxp"
+        ],
+        "RYRPGTVAL": [
+            "5vge"
+        ],
+        "SAEPVPLQL": [
+            "5vgd"
+        ],
+        "SALEWIKNK": [
+            "7s8r"
+        ],
+        "SELEIKRY": [
+            "4jqv"
+        ],
+        "SHVAVENAL": [
+            "4o2e"
+        ],
+        "SLANTVATL": [
+            "1s8d"
+        ],
+        "SLFNTIAVL": [
+            "5nmk"
+        ],
+        "SLFNTVATL": [
+            "2v2x"
+        ],
+        "SLFNTVATLY": [
+            "3giv"
+        ],
+        "SLLMWITQA": [
+            "1s9x"
+        ],
+        "SLLMWITQC": [
+            "1s9w"
+        ],
+        "SLLMWITQL": [
+            "3kla"
+        ],
+        "SLLMWITQS": [
+            "1s9y"
+        ],
+        "SLLMWITQV": [
+            "2bnq"
+        ],
+        "SLYLTVATL": [
+            "1t1x"
+        ],
+        "SLYNTIATL": [
+            "5nmh"
+        ],
+        "SLYNTVATL": [
+            "1t21"
+        ],
+        "SLYNVVATL": [
+            "1t1y"
+        ],
+        "SPIVPSFDM": [
+            "5wmn"
+        ],
+        "SPKLHFYYL": [
+            "7lgt"
+        ],
+        "SPNGTIQNIL": [
+            "6uj7"
+        ],
+        "SPNGTIRNIL": [
+            "6uj8"
+        ],
+        "SPRWYFYYL": [
+            "7lg0"
+        ],
+        "SRRWRRWNR": [
+            "3lv3"
+        ],
+        "SRYWAIRTR": [
+            "2bst"
+        ],
+        "SSCSSCPLSK": [
+            "5grd"
+        ],
+        "SSTRGISQLW": [
+            "5t6w"
+        ],
+        "SVYDFFVWL": [
+            "4hx1"
+        ],
+        "TAFTIPSI": [
+            "1e28",
+            "3w39"
+        ],
+        "TIAMELIRMIK": [
+            "4mj5"
+        ],
+        "TLACFVLAAV": [
+            "3i6k"
+        ],
+        "TLTSCNTSV": [
+            "4i48",
+            "1hhg"
+        ],
+        "TMVMELIRMIK": [
+            "4mj6"
+        ],
+        "TPQDLNTML": [
+            "4u1i",
+            "4u1h",
+            "4u1j"
+        ],
+        "TPRVTGGGAM": [
+            "5wmp"
+        ],
+        "TPYDINQML": [
+            "1a1m"
+        ],
+        "TSMSFVPRPW": [
+            "6d29"
+        ],
+        "TSNLQEQIGW": [
+            "5t70"
+        ],
+        "TSTFEDVKILAF": [
+            "5t6y"
+        ],
+        "TSTLQEQIGW": [
+            "5t6z",
+            "5v5l"
+        ],
+        "TSTTSVASSW": [
+            "5t6x"
+        ],
+        "TTAPFLSGK": [
+            "6o9c"
+        ],
+        "TTAPSLSGK": [
+            "6o9b"
+        ],
+        "TVAASGHSY": [
+            "6vb4",
+            "6vb3"
+        ],
+        "TVRASGHSY": [
+            "6uzq",
+            "6uzn",
+            "6vb5",
+            "6vb6",
+            "6vb7"
+        ],
+        "TYIKWPWWV": [
+            "7ejm"
+        ],
+        "TYQWIIRNW": [
+            "7jyw"
+        ],
+        "TYQWIIRNWET": [
+            "7jyx"
+        ],
+        "TYQWVLKNL": [
+            "6xqa"
+        ],
+        "VCWGELMNL": [
+            "4k7f"
+        ],
+        "VLHDDLLEA": [
+            "3d25"
+        ],
+        "VLRDDLLEA": [
+            "3ft2"
+        ],
+        "VMAPRALLL": [
+            "3bzf"
+        ],
+        "VMAPRTLFL": [
+            "3bze"
+        ],
+        "VMAPRTVLL": [
+            "1mhe",
+            "1kpr"
+        ],
+        "VMGPRTLIL": [
+            "3am8"
+        ],
+        "VPLRPMTY": [
+            "1a1n"
+        ],
+        "VQQESSFVM": [
+            "3c9n"
+        ],
+        "VRSRRCLRL": [
+            "5xs3"
+        ],
+        "VTAPRTLLL": [
+            "1ktl"
+        ],
+        "VTTDIQVKV": [
+            "5u98"
+        ],
+        "VVFLHVTYV": [
+            "7sa2"
+        ],
+        "VVRPSVASK": [
+            "7mle"
+        ],
+        "VVVGADGVGK": [
+            "7ow4"
+        ],
+        "VVVGAGGVGK": [
+            "7ow3"
+        ],
+        "VYGFVRACL": [
+            "2bck"
+        ],
+        "YFPLQSYGF": [
+            "7tlt"
+        ],
+        "YFSPIRVTF": [
+            "7jyv"
+        ],
+        "YLAPGPVTA": [
+            "5c0i"
+        ],
+        "YLDSGIHSGA": [
+            "3fqn"
+        ],
+        "YLEPAPVTA": [
+            "5eu5"
+        ],
+        "YLEPGPVTA": [
+            "5eu3"
+        ],
+        "YLEPGPVTV": [
+            "5eu6"
+        ],
+        "YLGGPDFPTI": [
+            "5c0g"
+        ],
+        "YLKEPVHGV": [
+            "1i1y"
+        ],
+        "YLLMWITQV": [
+            "4l29"
+        ],
+        "YLQLRTFLL": [
+            "7p3e"
+        ],
+        "YLQPRTFLL": [
+            "7rtd"
+        ],
+        "YLSPIASPL": [
+            "5f9j"
+        ],
+        "YLSPIASPLL": [
+            "5fdw"
+        ],
+        "YLSPIASPLLD": [
+            "5fa4"
+        ],
+        "YLVVVGAVGV": [
+            "6o51"
+        ],
+        "YMFPNAPYL": [
+            "3myj"
+        ],
+        "YQFGPDFPIA": [
+            "5c0e"
+        ],
+        "YVLDHLIVV": [
+            "6nca"
+        ]
+    },
+    "predicted_score": {},
+    "prediction_quality": {}
+}
